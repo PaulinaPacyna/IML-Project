@@ -1,0 +1,2 @@
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+pdfminer==20191125
