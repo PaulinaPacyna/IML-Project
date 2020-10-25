@@ -16,36 +16,37 @@ class PdfConverter:
     def __init__(self, file_path):
         self.file_path = file_path
 
-    # convert pdf file to a string which has space among words
     def convert_pdf_to_txt(self):
+        """Convert pdf file to a string which has space between words"""
+
         rsrcmgr = PDFResourceManager()
         retstr = StringIO()
         codec = "utf-8"  # 'utf16','utf-8'
         laparams = LAParams()
         device = TextConverter(rsrcmgr, retstr, laparams=laparams)
-        fp = open(self.file_path, "rb")
-        interpreter = PDFPageInterpreter(rsrcmgr, device)
-        password = ""
-        maxpages = 0
-        caching = True
-        pagenos = set()
-        for page in PDFPage.get_pages(
-            fp,
-            pagenos,
-            maxpages=maxpages,
-            password=password,
-            caching=caching,
-            check_extractable=True,
-        ):
-            interpreter.process_page(page)
-        fp.close()
+        with open(self.file_path, "rb") as fp:
+            interpreter = PDFPageInterpreter(rsrcmgr, device)
+            password = ""
+            maxpages = 0
+            caching = True
+            pagenos = set()
+            for page in PDFPage.get_pages(
+                fp,
+                pagenos,
+                maxpages=maxpages,
+                password=password,
+                caching=caching,
+                check_extractable=True,
+            ):
+                interpreter.process_page(page)
         device.close()
-        str = retstr.getvalue()
+        str_ret = retstr.getvalue()
         retstr.close()
-        return str
+        return str_ret
 
-    # convert pdf file text to string and save as a text_pdf.txt file
     def save_convert_pdf_to_txt(self):
+        """Convert pdf file text to string and save as a text_pdf.txt file"""
+
         content = self.convert_pdf_to_txt()
         txt_pdf = open("text_pdf.txt", "wb")
         txt_pdf.write(content.encode("utf-8"))
