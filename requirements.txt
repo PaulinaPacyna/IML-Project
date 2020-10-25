@@ -1,3 +1,4 @@
 nltk
 pdfminer==20191125
 black
+matplotlib

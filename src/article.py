@@ -5,7 +5,7 @@ Created on Sat Oct 24 19:57:22 2020
 @author: Pina
 """
 
-
+import nltk
 from nltk import FreqDist
 from nltk.corpus import stopwords
 
@@ -13,6 +13,7 @@ from nltk.corpus import stopwords
 def txt_to_tokens(text):
     # splitting text and filtering words containing only letters
     tokens = [x for x in filter(lambda x: x.isalpha(), text.lower().split())]
+    nltk.download('stopwords')
     sr = stopwords.words("english")
     # throwing out 'stop words'
     return [x for x in filter(lambda x: x not in sr, tokens)]
