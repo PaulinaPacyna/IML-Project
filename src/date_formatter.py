@@ -7,10 +7,10 @@ from PyPDF2 import PdfFileReader
 from PyPDF2.utils import PdfReadError
 
 # Using logger to check which pdf files could not be parsed
-mylogger = logging.getLogger("data_formatter")
+mylogger = logging.getLogger("date_formatter")
 logging.basicConfig(
     level=logging.CRITICAL,
-    filename="data_formatter.log",
+    filename="date_formatter.log",
     filemode="a+",
     format="%(asctime)-15s %(levelname)-8s %(message)s",
 )
@@ -27,9 +27,7 @@ for pdf_file in listdir("../data"):
             if pdf_toread.isEncrypted:
                 pdf_toread.decrypt("")
             pdf_info = pdf_toread.getDocumentInfo()
-            pdf_date = (
-                pdf_info.get("/CreationDate").split(":")[1].split("+")[0]
-            )
+            pdf_date = pdf_info.get("/CreationDate").split(":")[1].split("+")[0]
             pdf_year = int(pdf_date[0:4])
             pdf_months = int(pdf_date[5:6])
             if (
@@ -55,10 +53,7 @@ for pdf_file in listdir("../data"):
                             f"../data/{pdf_file}",
                             f"../data/{pdf_year}/{pdf_months}/{pdf_file}",
                         )
-                        time.sleep(
-                            0.2
-                        )  # so that the CPU does not fry, thank me later
-
+                        time.sleep(0.2)  # so that the CPU does not fry
         except (
             IndexError,
             AttributeError,
