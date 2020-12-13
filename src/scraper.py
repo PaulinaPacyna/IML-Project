@@ -10,9 +10,8 @@ import random
 
 
 class scraper:
-    def __init__(self, start_date: str, end_date: str, topic: str, resume: bool):
+    def __init__(self, start_date: str, end_date: str, resume: bool):
 
-        self.page_index = 0
         self.year_index = start_date
         self.month_index = 1
         self.pdf_count = 0
@@ -27,17 +26,13 @@ class scraper:
         else:
             self.start_date = start_date
             self.end_date = end_date
-            self.topic = topic
             with open("vars.pkl", "wb") as f:
                 pickle.dump(
                     [
-                        self.topic,
                         self.start_date,
                         self.end_date,
-                        self.page_index,
                         self.year_index,
                         self.month_index,
-                        self.pdf_count,
                     ],
                     f,
                 )
@@ -54,31 +49,25 @@ class scraper:
     def get_variables(self):
         with open("vars.pkl", "rb") as f:
             (
-                self.topic,
                 self.start_date,
                 self.end_date,
-                self.page_index,
                 self.year_index,
                 self.month_index,
-                self.pdf_count,
             ) = pickle.load(f)
 
     def update_variables(self):
         with open("vars.pkl", "wb") as f:
             pickle.dump(
                 [
-                    self.topic,
                     self.start_date,
                     self.end_date,
-                    self.page_index,
                     self.year_index,
                     self.month_index,
-                    self.pdf_count,
                 ],
                 f,
             )
 
-    def download_file(self, download_url, pdf_title):
+    def download_file(self, download_url, pdf_title, path):
         try:
             req = requests.get(
                 download_url,
@@ -92,7 +81,7 @@ class scraper:
                     "Connection": "keep-alive",
                 },
             )
-            file = open(f"../data/{pdf_title}.pdf", "wb")
+            file = open(f"{path}/{pdf_title}.pdf", "wb")
             file.write(req.content)
             file.close()
             self.pdf_count += 1
@@ -100,75 +89,76 @@ class scraper:
             exception_str = type(ex).__name__
             exception_args = ex.args
             self.logger.exception(
-                f"{exception_str} Args : {exception_args} Paper : {pdf_title}"
+                f"[Arxiv] {exception_str} Args: {exception_args} Paper : {pdf_title}"
             )
 
     def start(self):
+        print(self.year_index)
+        print(type(self.year_index))
+        print(self.end_date)
+        print(type(self.end_date))
+
         while self.year_index < self.end_date:
-            while self.month_index < 12:
-                while self.pdf_count < 100:
-                    self.topic = self.topic.replace(" ", "+")
-                    base_link = requests.get(
-                        f"https://onlinelibrary.wiley.com/action/doSearch?field1=AllField&text1={self.topic}&Ppub=&AfterMonth={self.month_index}&AfterYear={self.year_index}&BeforeMonth={self.month_index}&BeforeYear={self.year_index}&startPage={self.page_index}",
-                        headers={
-                            "Accept-Encoding": "gzip, deflate, sdch",
-                            "Accept-Language": "en-US,en;q=0.8",
-                            "Upgrade-Insecure-Requests": "1",
-                            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-                            "Cache-Control": "max-age=0",
-                            "Connection": "keep-alive",
-                        },
-                    )
-                    self.logger.warn("[NEW PAGE] : " + base_link.url)
-                    page_soup = BeautifulSoup(base_link.text, "html.parser")
-                    pdf_boxes = page_soup.findAll("div", {"class": "item__body"})
 
-                    for pdf_box in pdf_boxes:
-                        access_type = pdf_box.find(
-                            "div", {"class": "doi-access", "tabindex": "0"}
+            if not isdir(f"../data/{self.year_index}"):
+                mkdir(f"../data/{self.year_index}")
+
+            while self.month_index < 13:
+
+                if not isdir(f"../data/{self.year_index}/{self.month_index}"):
+                    mkdir(f"../data/{self.year_index}/{self.month_index}")
+
+                year_str = str(self.year_index)[2] + str(self.year_index)[3]
+                base_link = requests.get(
+                    f"http://export.arxiv.org/list/cs/{year_str}{self.month_index:02}?skip=0&show=500",
+                    headers={
+                        "Accept-Encoding": "gzip, deflate, sdch",
+                        "Accept-Language": "en-US,en;q=0.8",
+                        "Upgrade-Insecure-Requests": "1",
+                        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36",
+                        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+                        "Cache-Control": "max-age=0",
+                        "Connection": "keep-alive",
+                    },
+                )
+                self.logger.warn("[NEW PAGE] : " + base_link.url)
+                page_soup = BeautifulSoup(base_link.text, "html.parser")
+                pdf_titles = page_soup.findAll("dd")
+                pdf_links = page_soup.findAll("dt")
+                for title, link in zip(pdf_titles, pdf_links):
+
+                    pdf_link = link.find("a", {"title": "Download PDF"})
+                    pdf_title = (
+                        title.text.split("Title: ")[1].split("Authors")[0]
+                    )[:-3]
+                    if pdf_link and not isfile(
+                        f"../data/{self.year_index}/{self.month_index}/{pdf_title}.pdf"
+                    ):
+                        download_link = (
+                            "http://export.arxiv.org/" + pdf_link["href"]
                         )
-                        if access_type:
-                            if (
-                                access_type.text == "Free Access"
-                                or access_type.text == "Open Access"
-                            ):
-                                pdf_info = pdf_box.find(
-                                    "a", {"class": "publication_title visitable"},
-                                )
-                                pdf_title = pdf_info.text
-
-                                download_link = (
-                                    "https://onlinelibrary.wiley.com/"
-                                    + pdf_info["href"].replace("/doi", "doi/pdfdirect")
-                                    + "?download=true"
-                                )
-                                self.download_file(download_link, pdf_title)
-                                time.sleep(random.randint(1, 3))
-                                self.logger.info(f"[Added PDF] {pdf_title}")
-
-                    self.page_index += 1
-                    self.update_variables()
+                        self.download_file(
+                            download_link,
+                            pdf_title,
+                            path=f"../data/{self.year_index}/{self.month_index}",
+                        )
+                        time.sleep(random.randint(1, 3))
+                        self.logger.info(
+                            f"[Arxiv] [Added PDF] ({self.pdf_count}) {pdf_title}"
+                        )
+                    self.pdf_count += 1
 
                 self.month_index += 1
                 self.pdf_count = 0
-                self.page_index = 0
                 self.update_variables()
-                self.logger.warn("[NEW MONTH] : " + base_link.url)
+                self.logger.warn("[Arxiv] [NEW MONTH] : " + base_link.url)
 
             self.year_index += 1
             self.pdf_count = 0
-            self.page_index = 0
             self.month_index = 1
             self.update_variables()
-            self.logger.warn("[NEW YEAR] : " + base_link.url)
+            self.logger.warn("[Arxiv] [NEW YEAR] : " + base_link.url)
 
 
-topics = [
-    "Algorithms",
-    "Artificial intelligence",
-    "Big data",
-]
-for topic in topics:
-    my_scraper = scraper(2015, 2020, topic, False)
-    my_scraper.start()
+my_scraper = scraper(2015, 2020, True)
+my_scraper.start()

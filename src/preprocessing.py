@@ -75,28 +75,34 @@ def lemmatize_pdfs():
                     join(join(join(CLEAN_DATA_PATH, year), month), pdf_file)
                 ).with_suffix(".txt")
                 if not isfile(cleaned_pdf_path):
-                    pdf_path = join(
-                        join(join(DATA_PATH, year), month), pdf_file
-                    )
-                    single_pdf_txt = PdfConverter.convert_pdf_to_string(
-                        pdf_path
-                    ).lower()
-                    single_pdf_txt = remove_special_characters(single_pdf_txt)
+                    try:
+                        pdf_path = join(
+                            join(join(DATA_PATH, year), month), pdf_file
+                        )
+                        single_pdf_txt = PdfConverter.convert_pdf_to_string(
+                            pdf_path
+                        ).lower()
+                        single_pdf_txt = remove_special_characters(
+                            single_pdf_txt
+                        )
 
-                    single_pdf_txt = remove_numbers(single_pdf_txt)
+                        single_pdf_txt = remove_numbers(single_pdf_txt)
 
-                    lemmatized_pdf = lemmatize_text(single_pdf_txt)
+                        lemmatized_pdf = lemmatize_text(single_pdf_txt)
 
-                    cleaned_pdf = " ".join(
-                        [
-                            word
-                            for word in lemmatized_pdf.split()
-                            if word not in stopwords_dict
-                        ]
-                    )
+                        cleaned_pdf = " ".join(
+                            [
+                                word
+                                for word in lemmatized_pdf.split()
+                                if word not in stopwords_dict
+                            ]
+                        )
 
-                    with open(cleaned_pdf_path, "w+") as text_file:
-                        text_file.write(cleaned_pdf)
+                        with open(cleaned_pdf_path, "w+") as text_file:
+                            text_file.write(cleaned_pdf)
+
+                    except Exception as e:
+                        print(e.__cause__)
 
 
 lemmatize_pdfs()
