@@ -1,0 +1,38 @@
+nltk~=3.4.5
+pdfminer==20191125
+matplotlib~=3.3.3
+
+numpy~=1.19.4
+spacy~=2.3.5
+num2words~=0.5.10
+
+# IML-Project/src/article.py: 13,14
+Pillow == 8.0.1
+
+# IML-Project/src/date_formatter.py: 6,7
+PyPDF2 == 1.26.0
+
+# IML-Project/src/scraper.py: 3
+beautifulsoup4 == 4.8.1
+
+# IML-Project/src/date_formatter.py: 1
+date_extractor == 5.1.2
+
+# IML-Project/src/article.py: 12
+matplotlib == 3.1.1
+
+# IML-Project/src/article.py: 9,10,11
+# IML-Project/src/lemmatizer.py: 11
+nltk == 3.4.5
+
+# IML-Project/src/lemmatizer.py: 6
+pandas == 0.25.3
+
+# IML-Project/src/scraper.py: 1
+requests == 2.22.0
+
+# IML-Project/src/lemmatizer.py: 1
+scikit_learn == 0.22
+
+# IML-Project/src/pdf_converter.py: 7
+tika == 1.24

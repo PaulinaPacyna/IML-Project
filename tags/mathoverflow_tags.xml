@@ -1,0 +1,1498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="17" TagName="homology" Count="259" ExcerptPostId="269637" WikiPostId="269636" />
+  <row Id="18" TagName="cohomology" Count="1078" ExcerptPostId="230772" WikiPostId="230771" />
+  <row Id="19" TagName="lie-algebras" Count="1744" ExcerptPostId="153029" WikiPostId="153028" />
+  <row Id="20" TagName="lie-groups" Count="2258" ExcerptPostId="137267" WikiPostId="137266" />
+  <row Id="21" TagName="linear-algebra" Count="4481" ExcerptPostId="134834" WikiPostId="134833" />
+  <row Id="38" TagName="subfactors" Count="150" />
+  <row Id="40" TagName="topological-quantum-field-theory" Count="192" ExcerptPostId="198609" WikiPostId="198608" />
+  <row Id="41" TagName="derived-categories" Count="551" ExcerptPostId="184751" WikiPostId="184750" />
+  <row Id="43" TagName="geometry" Count="345" ExcerptPostId="134828" WikiPostId="134827" />
+  <row Id="44" TagName="examples" Count="473" />
+  <row Id="45" TagName="big-picture" Count="328" ExcerptPostId="135486" WikiPostId="135485" />
+  <row Id="47" TagName="teaching" Count="229" ExcerptPostId="152387" WikiPostId="152386" />
+  <row Id="48" TagName="latex" Count="43" ExcerptPostId="135924" WikiPostId="135923" />
+  <row Id="49" TagName="career" Count="153" />
+  <row Id="53" TagName="open-problems" Count="491" ExcerptPostId="135660" WikiPostId="135659" />
+  <row Id="57" TagName="fields" Count="444" ExcerptPostId="198563" WikiPostId="198562" />
+  <row Id="58" TagName="20-questions" Count="18" ExcerptPostId="140605" WikiPostId="140604" />
+  <row Id="59" TagName="puzzle" Count="105" ExcerptPostId="230764" WikiPostId="230763" />
+  <row Id="66" TagName="stacks" Count="426" ExcerptPostId="236959" WikiPostId="236958" />
+  <row Id="67" TagName="sheaf-theory" Count="728" ExcerptPostId="236957" WikiPostId="236956" />
+  <row Id="68" TagName="smoothness" Count="108" />
+  <row Id="69" TagName="differentials" Count="22" />
+  <row Id="70" TagName="journals" Count="242" />
+  <row Id="73" TagName="universal-property" Count="45" />
+  <row Id="74" TagName="normalization" Count="46" />
+  <row Id="77" TagName="witt-vectors" Count="35" />
+  <row Id="78" TagName="elliptic-curves" Count="1167" ExcerptPostId="154625" WikiPostId="154624" />
+  <row Id="79" TagName="algebraic-spaces" Count="56" />
+  <row Id="80" TagName="geometric-invariant-theory" Count="152" ExcerptPostId="238209" WikiPostId="238208" />
+  <row Id="81" TagName="model-theory" Count="845" ExcerptPostId="135558" WikiPostId="135557" />
+  <row Id="83" TagName="taylor-series" Count="95" ExcerptPostId="310059" WikiPostId="310058" />
+  <row Id="84" TagName="separation-axioms" Count="17" />
+  <row Id="85" TagName="valuative-criteria" Count="9" />
+  <row Id="91" TagName="rational-points" Count="137" />
+  <row Id="99" TagName="computer-algebra" Count="277" ExcerptPostId="135003" WikiPostId="135002" />
+  <row Id="100" TagName="noncommutative-algebra" Count="375" ExcerptPostId="293284" WikiPostId="293283" />
+  <row Id="101" TagName="projective-resolution" Count="28" />
+  <row Id="102" TagName="chain-complexes" Count="79" />
+  <row Id="104" TagName="algebraic-groups" Count="1688" ExcerptPostId="235820" WikiPostId="235819" />
+  <row Id="105" TagName="schemes" Count="575" ExcerptPostId="143198" WikiPostId="143197" />
+  <row Id="106" TagName="artin-ring" Count="11" ExcerptPostId="150038" WikiPostId="150037" />
+  <row Id="109" TagName="path-connected" Count="48" ExcerptPostId="165828" WikiPostId="165827" />
+  <row Id="110" TagName="rational-functions" Count="107" />
+  <row Id="111" TagName="fibre-products" Count="6" />
+  <row Id="112" TagName="smooth-manifolds" Count="926" ExcerptPostId="179945" WikiPostId="179944" />
+  <row Id="115" TagName="genus" Count="20" />
+  <row Id="116" TagName="hochschild-homology" Count="72" ExcerptPostId="264639" WikiPostId="264638" />
+  <row Id="117" TagName="a-infinity-algebras" Count="87" ExcerptPostId="193374" WikiPostId="193373" />
+  <row Id="118" TagName="homotopy-theory" Count="2286" ExcerptPostId="189304" WikiPostId="189303" />
+  <row Id="119" TagName="associative-algebras" Count="63" ExcerptPostId="156277" WikiPostId="156276" />
+  <row Id="120" TagName="von-neumann-algebras" Count="459" ExcerptPostId="220890" WikiPostId="220889" />
+  <row Id="123" TagName="flatness" Count="153" />
+  <row Id="126" TagName="paracompactness" Count="17" />
+  <row Id="128" TagName="r-matrix" Count="10" />
+  <row Id="129" TagName="knot-theory" Count="719" ExcerptPostId="154870" WikiPostId="154869" />
+  <row Id="130" TagName="configuration-spaces" Count="81" ExcerptPostId="236675" WikiPostId="236674" />
+  <row Id="131" TagName="milnor-invariant" Count="4" />
+  <row Id="132" TagName="2-knots" Count="20" />
+  <row Id="134" TagName="set-theory" Count="4020" ExcerptPostId="134743" WikiPostId="134742" />
+  <row Id="135" TagName="order-theory" Count="506" ExcerptPostId="238256" WikiPostId="238255" />
+  <row Id="138" TagName="line-bundles" Count="174" ExcerptPostId="187201" WikiPostId="187200" />
+  <row Id="139" TagName="abelian-varieties" Count="650" ExcerptPostId="157320" WikiPostId="157319" />
+  <row Id="140" TagName="modular-forms" Count="1070" ExcerptPostId="135470" WikiPostId="135469" />
+  <row Id="141" TagName="elliptic-cohomology" Count="19" />
+  <row Id="142" TagName="divisors" Count="257" ExcerptPostId="154958" WikiPostId="154957" />
+  <row Id="143" TagName="hilbert-schemes" Count="159" />
+  <row Id="144" TagName="moduli-spaces" Count="739" ExcerptPostId="186024" WikiPostId="186023" />
+  <row Id="145" TagName="monoidal-categories" Count="370" />
+  <row Id="146" TagName="etale-cohomology" Count="554" ExcerptPostId="236885" WikiPostId="236884" />
+  <row Id="147" TagName="filtrations" Count="27" />
+  <row Id="148" TagName="associated-graded" Count="12" ExcerptPostId="150242" WikiPostId="150241" />
+  <row Id="149" TagName="algebraic-curves" Count="791" ExcerptPostId="236801" WikiPostId="236800" />
+  <row Id="150" TagName="invariant-theory" Count="312" ExcerptPostId="158984" WikiPostId="158983" />
+  <row Id="151" TagName="homological-algebra" Count="2076" ExcerptPostId="211819" WikiPostId="211818" />
+  <row Id="152" TagName="koszul-duality" Count="38" ExcerptPostId="155307" WikiPostId="155306" />
+  <row Id="153" TagName="d-modules" Count="207" ExcerptPostId="203906" WikiPostId="203905" />
+  <row Id="154" TagName="geometric-representation-theory" Count="117" />
+  <row Id="155" TagName="motives" Count="381" ExcerptPostId="236933" WikiPostId="236932" />
+  <row Id="156" TagName="riemannian-geometry" Count="2198" ExcerptPostId="136173" WikiPostId="136172" />
+  <row Id="158" TagName="adjoint-functors" Count="131" />
+  <row Id="160" TagName="eisenstein-series" Count="71" />
+  <row Id="161" TagName="euler-characteristics" Count="63" />
+  <row Id="162" TagName="model-categories" Count="585" ExcerptPostId="332083" WikiPostId="332082" />
+  <row Id="163" TagName="complex-geometry" Count="2430" ExcerptPostId="145698" WikiPostId="145697" />
+  <row Id="164" TagName="operads" Count="270" />
+  <row Id="165" TagName="deformation-theory" Count="545" ExcerptPostId="269696" WikiPostId="269695" />
+  <row Id="167" TagName="modular-tensor-categories" Count="44" />
+  <row Id="168" TagName="reshetikhin-turaev" Count="9" />
+  <row Id="171" TagName="laplace-transform" Count="94" />
+  <row Id="172" TagName="differential-equations" Count="1238" ExcerptPostId="135373" WikiPostId="135372" />
+  <row Id="174" TagName="hopf-algebras" Count="438" ExcerptPostId="154665" WikiPostId="154664" />
+  <row Id="175" TagName="fibre-bundles" Count="259" ExcerptPostId="236751" WikiPostId="236750" />
+  <row Id="176" TagName="morse-theory" Count="197" ExcerptPostId="237048" WikiPostId="237047" />
+  <row Id="177" TagName="reading-list" Count="20" ExcerptPostId="156492" WikiPostId="156491" />
+  <row Id="178" TagName="tropical-geometry" Count="71" ExcerptPostId="261778" WikiPostId="261777" />
+  <row Id="179" TagName="flags" Count="10" />
+  <row Id="180" TagName="nilpotent-matrices" Count="12" />
+  <row Id="181" TagName="commuting-variety" Count="3" />
+  <row Id="183" TagName="short-exact-sequences" Count="55" ExcerptPostId="158619" WikiPostId="158618" />
+  <row Id="186" TagName="advice" Count="101" />
+  <row Id="187" TagName="real-analysis" Count="3487" ExcerptPostId="211552" WikiPostId="211551" />
+  <row Id="188" TagName="inner-product" Count="61" />
+  <row Id="189" TagName="braided-tensor-categories" Count="100" />
+  <row Id="191" TagName="theta-functions" Count="85" />
+  <row Id="192" TagName="lattices" Count="537" ExcerptPostId="181836" WikiPostId="181835" />
+  <row Id="193" TagName="algebraic-k-theory" Count="389" ExcerptPostId="161833" WikiPostId="161832" />
+  <row Id="194" TagName="motivation" Count="52" />
+  <row Id="195" TagName="categorification" Count="51" />
+  <row Id="196" TagName="log-geometry" Count="17" ExcerptPostId="225431" WikiPostId="225430" />
+  <row Id="197" TagName="traces" Count="99" ExcerptPostId="236673" WikiPostId="236672" />
+  <row Id="198" TagName="symmetric-algebras" Count="9" />
+  <row Id="200" TagName="klr-algebras" Count="5" ExcerptPostId="155025" WikiPostId="155024" />
+  <row Id="201" TagName="ramsey-theory" Count="158" ExcerptPostId="230278" WikiPostId="230277" />
+  <row Id="202" TagName="graph-colorings" Count="485" ExcerptPostId="230107" WikiPostId="230106" />
+  <row Id="203" TagName="arxiv" Count="29" ExcerptPostId="158080" WikiPostId="158079" />
+  <row Id="204" TagName="simplicial-stuff" Count="621" ExcerptPostId="289998" WikiPostId="289997" />
+  <row Id="205" TagName="arithmetic-geometry" Count="1556" ExcerptPostId="230927" WikiPostId="230926" />
+  <row Id="206" TagName="mirror-symmetry" Count="138" ExcerptPostId="262483" WikiPostId="262482" />
+  <row Id="207" TagName="books" Count="157" ExcerptPostId="135707" WikiPostId="135706" />
+  <row Id="208" TagName="analytic-number-theory" Count="2105" ExcerptPostId="137412" WikiPostId="137411" />
+  <row Id="209" TagName="planar-algebras" Count="52" />
+  <row Id="210" TagName="exposition" Count="27" />
+  <row Id="211" TagName="spherical-geometry" Count="90" />
+  <row Id="212" TagName="algorithms" Count="1253" ExcerptPostId="230375" WikiPostId="230374" />
+  <row Id="214" TagName="mathjobs" Count="17" ExcerptPostId="230976" WikiPostId="230975" />
+  <row Id="215" TagName="finite-groups" Count="1804" ExcerptPostId="220640" WikiPostId="220639" />
+  <row Id="216" TagName="class-field-theory" Count="277" />
+  <row Id="217" TagName="galois-representations" Count="493" ExcerptPostId="236922" WikiPostId="236921" />
+  <row Id="219" TagName="perverse-sheaves" Count="145" />
+  <row Id="220" TagName="decomposition-theorem" Count="40" ExcerptPostId="370635" WikiPostId="370634" />
+  <row Id="222" TagName="coalgebras" Count="91" ExcerptPostId="259454" WikiPostId="259453" />
+  <row Id="223" TagName="abelian-schemes" Count="44" />
+  <row Id="224" TagName="groupoids" Count="147" ExcerptPostId="156652" WikiPostId="156651" />
+  <row Id="225" TagName="fourier-analysis" Count="1093" ExcerptPostId="235822" WikiPostId="235821" />
+  <row Id="226" TagName="soft-question" Count="1901" ExcerptPostId="134832" WikiPostId="134831" />
+  <row Id="228" TagName="functoriality" Count="25" />
+  <row Id="229" TagName="automorphic-forms" Count="606" ExcerptPostId="236966" WikiPostId="236965" />
+  <row Id="231" TagName="langlands-conjectures" Count="286" ExcerptPostId="143103" WikiPostId="143102" />
+  <row Id="232" TagName="algebraic-surfaces" Count="360" ExcerptPostId="236927" WikiPostId="236926" />
+  <row Id="233" TagName="regularization" Count="41" />
+  <row Id="234" TagName="gromov-witten-theory" Count="144" />
+  <row Id="237" TagName="conformal-field-theory" Count="131" />
+  <row Id="238" TagName="virasoro-algebra" Count="21" />
+  <row Id="239" TagName="supersymmetry" Count="56" />
+  <row Id="241" TagName="automata-theory" Count="88" />
+  <row Id="242" TagName="formal-languages" Count="135" ExcerptPostId="220395" WikiPostId="220394" />
+  <row Id="244" TagName="banach-spaces" Count="1214" ExcerptPostId="168506" WikiPostId="168505" />
+  <row Id="246" TagName="quadratic-reciprocity" Count="21" />
+  <row Id="247" TagName="arithmetic-scheme" Count="4" />
+  <row Id="248" TagName="graph-theory" Count="4166" ExcerptPostId="135455" WikiPostId="135454" />
+  <row Id="249" TagName="measure-theory" Count="2131" ExcerptPostId="136505" WikiPostId="136504" />
+  <row Id="250" TagName="tropical-arithmetic" Count="23" />
+  <row Id="251" TagName="descent" Count="101" />
+  <row Id="252" TagName="asymptotics" Count="692" />
+  <row Id="253" TagName="generating-functions" Count="260" />
+  <row Id="254" TagName="vector-bundles" Count="851" ExcerptPostId="187217" WikiPostId="187216" />
+  <row Id="255" TagName="stable-homotopy" Count="414" ExcerptPostId="236938" WikiPostId="236937" />
+  <row Id="256" TagName="quivers" Count="128" ExcerptPostId="139879" WikiPostId="139878" />
+  <row Id="257" TagName="exterior-algebra" Count="88" />
+  <row Id="258" TagName="gerbes" Count="60" ExcerptPostId="317095" WikiPostId="317094" />
+  <row Id="259" TagName="tensor-powers" Count="15" />
+  <row Id="260" TagName="quantum-field-theory" Count="264" ExcerptPostId="268801" WikiPostId="268800" />
+  <row Id="261" TagName="fukaya-category" Count="33" ExcerptPostId="234605" WikiPostId="234604" />
+  <row Id="263" TagName="f-1" Count="60" ExcerptPostId="145124" WikiPostId="145123" />
+  <row Id="264" TagName="coarse-moduli-spaces" Count="53" />
+  <row Id="266" TagName="shape-theory" Count="10" />
+  <row Id="267" TagName="monodromy" Count="63" />
+  <row Id="268" TagName="independence-results" Count="58" ExcerptPostId="200012" WikiPostId="200011" />
+  <row Id="269" TagName="noncommutative-geometry" Count="374" ExcerptPostId="176668" WikiPostId="176667" />
+  <row Id="270" TagName="bimodules" Count="21" />
+  <row Id="271" TagName="birational-geometry" Count="489" ExcerptPostId="236931" WikiPostId="236930" />
+  <row Id="272" TagName="frobenius-algebras" Count="40" ExcerptPostId="282408" WikiPostId="282407" />
+  <row Id="273" TagName="geometric-langlands" Count="66" />
+  <row Id="275" TagName="zeta-functions" Count="248" ExcerptPostId="236667" WikiPostId="236666" />
+  <row Id="276" TagName="fusion-categories" Count="123" />
+  <row Id="277" TagName="gaga" Count="19" ExcerptPostId="198651" WikiPostId="198650" />
+  <row Id="278" TagName="computer-science" Count="534" ExcerptPostId="166144" WikiPostId="166143" />
+  <row Id="280" TagName="np" Count="99" ExcerptPostId="230317" WikiPostId="230316" />
+  <row Id="281" TagName="global-fields" Count="22" />
+  <row Id="282" TagName="number-fields" Count="176" />
+  <row Id="283" TagName="function-fields" Count="60" />
+  <row Id="284" TagName="young-tableaux" Count="137" ExcerptPostId="371617" WikiPostId="371616" />
+  <row Id="285" TagName="absolute-galois-group" Count="57" />
+  <row Id="286" TagName="string-theory" Count="124" ExcerptPostId="136253" WikiPostId="136252" />
+  <row Id="287" TagName="generic-points" Count="8" />
+  <row Id="288" TagName="intersection-theory" Count="285" />
+  <row Id="289" TagName="geometric-intuition" Count="29" />
+  <row Id="290" TagName="combinatorial-game-theory" Count="195" ExcerptPostId="187824" WikiPostId="187823" />
+  <row Id="291" TagName="ribbon-hopf-algebras" Count="10" />
+  <row Id="292" TagName="conferences" Count="22" ExcerptPostId="283704" WikiPostId="283703" />
+  <row Id="294" TagName="torus-action" Count="28" />
+  <row Id="296" TagName="toeplitz-operators" Count="24" />
+  <row Id="298" TagName="principal-bundles" Count="235" ExcerptPostId="269423" WikiPostId="269422" />
+  <row Id="299" TagName="hyperbolic-geometry" Count="636" />
+  <row Id="301" TagName="manuscript" Count="2" />
+  <row Id="302" TagName="symmetric-power" Count="4" />
+  <row Id="303" TagName="cherednik-algebra" Count="4" />
+  <row Id="304" TagName="primitive-ideal" Count="5" />
+  <row Id="306" TagName="math-communication" Count="43" ExcerptPostId="231866" WikiPostId="231865" />
+  <row Id="307" TagName="triangulated-categories" Count="214" ExcerptPostId="161091" WikiPostId="161090" />
+  <row Id="308" TagName="stable-homotopy-category" Count="54" />
+  <row Id="309" TagName="motivic-cohomology" Count="135" />
+  <row Id="310" TagName="dimension-theory" Count="152" ExcerptPostId="150111" WikiPostId="150110" />
+  <row Id="311" TagName="mathematical-philosophy" Count="299" ExcerptPostId="220342" WikiPostId="220341" />
+  <row Id="312" TagName="applications" Count="131" />
+  <row Id="313" TagName="mathematics-education" Count="256" ExcerptPostId="152385" WikiPostId="152384" />
+  <row Id="314" TagName="popularization" Count="13" />
+  <row Id="315" TagName="singularity-theory" Count="412" ExcerptPostId="360491" WikiPostId="360490" />
+  <row Id="316" TagName="fibration" Count="147" ExcerptPostId="308316" WikiPostId="308315" />
+  <row Id="319" TagName="l-functions" Count="334" ExcerptPostId="149109" WikiPostId="149108" />
+  <row Id="320" TagName="formal-schemes" Count="68" />
+  <row Id="321" TagName="riemann-surfaces" Count="545" ExcerptPostId="257664" WikiPostId="257663" />
+  <row Id="322" TagName="cellular-automata" Count="49" />
+  <row Id="323" TagName="nks" Count="2" />
+  <row Id="324" TagName="intuition" Count="326" ExcerptPostId="135461" WikiPostId="135460" />
+  <row Id="325" TagName="neron-models" Count="50" />
+  <row Id="327" TagName="stochastic-calculus" Count="667" ExcerptPostId="193739" WikiPostId="193738" />
+  <row Id="328" TagName="mathematical-finance" Count="59" />
+  <row Id="329" TagName="six-operations" Count="11" />
+  <row Id="330" TagName="floer-homology" Count="71" />
+  <row Id="331" TagName="symplectic-topology" Count="179" />
+  <row Id="332" TagName="localization" Count="132" />
+  <row Id="334" TagName="physics" Count="140" ExcerptPostId="264879" WikiPostId="264878" />
+  <row Id="335" TagName="hopf-fibration" Count="27" />
+  <row Id="336" TagName="infinite-dimensional-manifolds" Count="120" />
+  <row Id="337" TagName="monads" Count="167" />
+  <row Id="338" TagName="higher-category-theory" Count="901" ExcerptPostId="236896" WikiPostId="236895" />
+  <row Id="340" TagName="c-star-algebras" Count="629" ExcerptPostId="179605" WikiPostId="179604" />
+  <row Id="342" TagName="infinity-categories" Count="334" />
+  <row Id="344" TagName="divergent-series" Count="76" />
+  <row Id="345" TagName="ultrafilters" Count="184" />
+  <row Id="346" TagName="polynomials" Count="1894" ExcerptPostId="137795" WikiPostId="137794" />
+  <row Id="349" TagName="binomial-coefficients" Count="301" ExcerptPostId="220410" WikiPostId="220409" />
+  <row Id="350" TagName="topological-groups" Count="560" ExcerptPostId="230581" WikiPostId="230580" />
+  <row Id="351" TagName="permutations" Count="388" ExcerptPostId="178087" WikiPostId="178086" />
+  <row Id="352" TagName="markov-chains" Count="428" />
+  <row Id="353" TagName="computability-theory" Count="723" ExcerptPostId="134747" WikiPostId="134746" />
+  <row Id="355" TagName="chern-simons-theory" Count="59" />
+  <row Id="356" TagName="algebraic-number-theory" Count="1549" ExcerptPostId="214485" WikiPostId="214484" />
+  <row Id="358" TagName="exceptional-groups" Count="51" ExcerptPostId="279236" WikiPostId="279235" />
+  <row Id="359" TagName="msc" Count="4" />
+  <row Id="361" TagName="group-actions" Count="362" />
+  <row Id="362" TagName="cryptography" Count="141" ExcerptPostId="230462" WikiPostId="230461" />
+  <row Id="363" TagName="special-functions" Count="647" ExcerptPostId="142122" WikiPostId="142121" />
+  <row Id="364" TagName="gamma-function" Count="123" ExcerptPostId="238248" WikiPostId="238247" />
+  <row Id="365" TagName="symmetric-functions" Count="248" ExcerptPostId="235159" WikiPostId="235158" />
+  <row Id="366" TagName="schur-functions" Count="63" />
+  <row Id="367" TagName="arithmetic-topology" Count="6" ExcerptPostId="237088" WikiPostId="237087" />
+  <row Id="369" TagName="lie-algebra-cohomology" Count="120" />
+  <row Id="371" TagName="semigroups-and-monoids" Count="435" ExcerptPostId="230700" WikiPostId="230699" />
+  <row Id="373" TagName="matroid-theory" Count="133" ExcerptPostId="229449" WikiPostId="229448" />
+  <row Id="374" TagName="random-matrices" Count="599" ExcerptPostId="135056" WikiPostId="135055" />
+  <row Id="378" TagName="grants" Count="7" />
+  <row Id="379" TagName="proof-theory" Count="284" ExcerptPostId="157400" WikiPostId="157399" />
+  <row Id="380" TagName="extended-tqft" Count="43" />
+  <row Id="381" TagName="symmetric-spaces" Count="122" />
+  <row Id="382" TagName="abelian-categories" Count="170" />
+  <row Id="383" TagName="super-linear-algebra" Count="13" />
+  <row Id="384" TagName="weyl-algebra" Count="33" />
+  <row Id="385" TagName="division-rings" Count="29" ExcerptPostId="155544" WikiPostId="155543" />
+  <row Id="390" TagName="loop-spaces" Count="133" ExcerptPostId="247613" WikiPostId="247612" />
+  <row Id="391" TagName="spectral-sequences" Count="302" />
+  <row Id="392" TagName="definitions" Count="170" />
+  <row Id="393" TagName="real-algebraic-geometry" Count="240" ExcerptPostId="230482" WikiPostId="230481" />
+  <row Id="394" TagName="p-adic-analysis" Count="203" ExcerptPostId="269700" WikiPostId="269699" />
+  <row Id="396" TagName="k3-surfaces" Count="143" ExcerptPostId="155028" WikiPostId="155027" />
+  <row Id="397" TagName="geometric-group-theory" Count="675" ExcerptPostId="135081" WikiPostId="135080" />
+  <row Id="399" TagName="cotangent-complex" Count="29" />
+  <row Id="400" TagName="extremal-graph-theory" Count="157" ExcerptPostId="230220" WikiPostId="230219" />
+  <row Id="401" TagName="wavelets" Count="43" />
+  <row Id="404" TagName="lower-bounds" Count="97" />
+  <row Id="406" TagName="combinatorial-geometry" Count="173" />
+  <row Id="410" TagName="modular-representation-theory" Count="82" ExcerptPostId="159086" WikiPostId="159085" />
+  <row Id="411" TagName="profinite-groups" Count="233" />
+  <row Id="412" TagName="anabelian-geometry" Count="32" />
+  <row Id="416" TagName="hyperplane-arrangements" Count="59" ExcerptPostId="155995" WikiPostId="155994" />
+  <row Id="422" TagName="binomial-distribution" Count="54" />
+  <row Id="423" TagName="bernoulli-trial" Count="17" />
+  <row Id="431" TagName="schubert-varieties" Count="27" />
+  <row Id="432" TagName="gauge-theory" Count="160" ExcerptPostId="283292" WikiPostId="283291" />
+  <row Id="433" TagName="mathematical-development" Count="2" />
+  <row Id="434" TagName="braid-groups" Count="163" />
+  <row Id="440" TagName="finite-fields" Count="593" ExcerptPostId="230472" WikiPostId="230471" />
+  <row Id="441" TagName="oa.operator-algebras" Count="1623" ExcerptPostId="134910" WikiPostId="134909" />
+  <row Id="443" TagName="ag.algebraic-geometry" Count="17355" ExcerptPostId="134856" WikiPostId="134855" />
+  <row Id="444" TagName="at.algebraic-topology" Count="6645" ExcerptPostId="134862" WikiPostId="134861" />
+  <row Id="445" TagName="simplicial-volume" Count="13" />
+  <row Id="446" TagName="manifolds" Count="403" ExcerptPostId="236680" WikiPostId="236679" />
+  <row Id="447" TagName="rt.representation-theory" Count="5414" ExcerptPostId="134878" WikiPostId="134877" />
+  <row Id="448" TagName="dirichlet-series" Count="126" />
+  <row Id="449" TagName="lo.logic" Count="3796" ExcerptPostId="134751" WikiPostId="134750" />
+  <row Id="450" TagName="fa.functional-analysis" Count="6835" ExcerptPostId="134872" WikiPostId="134871" />
+  <row Id="452" TagName="metamathematics" Count="86" />
+  <row Id="453" TagName="formal-groups" Count="74" />
+  <row Id="456" TagName="dg.differential-geometry" Count="6927" ExcerptPostId="134868" WikiPostId="134867" />
+  <row Id="457" TagName="nt.number-theory" Count="12479" ExcerptPostId="134858" WikiPostId="134857" />
+  <row Id="458" TagName="ct.category-theory" Count="4862" ExcerptPostId="134897" WikiPostId="134896" />
+  <row Id="459" TagName="ac.commutative-algebra" Count="4300" ExcerptPostId="134874" WikiPostId="134873" />
+  <row Id="460" TagName="st.statistics" Count="1451" ExcerptPostId="134891" WikiPostId="134890" />
+  <row Id="462" TagName="mp.mathematical-physics" Count="1711" ExcerptPostId="134830" WikiPostId="134829" />
+  <row Id="463" TagName="pr.probability" Count="6533" ExcerptPostId="134876" WikiPostId="134875" />
+  <row Id="464" TagName="co.combinatorics" Count="7927" ExcerptPostId="134860" WikiPostId="134859" />
+  <row Id="465" TagName="cv.complex-variables" Count="2407" ExcerptPostId="134895" WikiPostId="134894" />
+  <row Id="469" TagName="gt.geometric-topology" Count="3214" ExcerptPostId="134883" WikiPostId="134882" />
+  <row Id="470" TagName="sociology-of-math" Count="35" />
+  <row Id="471" TagName="mg.metric-geometry" Count="2905" ExcerptPostId="134887" WikiPostId="134886" />
+  <row Id="472" TagName="na.numerical-analysis" Count="1017" ExcerptPostId="134912" WikiPostId="134911" />
+  <row Id="473" TagName="equivariant-homotopy" Count="105" />
+  <row Id="474" TagName="sg.symplectic-geometry" Count="1211" ExcerptPostId="134901" WikiPostId="134900" />
+  <row Id="477" TagName="qa.quantum-algebra" Count="672" ExcerptPostId="134906" WikiPostId="134905" />
+  <row Id="479" TagName="sp.spectral-theory" Count="763" ExcerptPostId="134904" WikiPostId="134903" />
+  <row Id="481" TagName="oc.optimization-and-control" Count="928" ExcerptPostId="134908" WikiPostId="134907" />
+  <row Id="483" TagName="projective-modules" Count="116" ExcerptPostId="158850" WikiPostId="158849" />
+  <row Id="490" TagName="characteristic-classes" Count="268" ExcerptPostId="245472" WikiPostId="245471" />
+  <row Id="491" TagName="continued-fractions" Count="150" />
+  <row Id="492" TagName="ap.analysis-of-pdes" Count="3017" ExcerptPostId="134889" WikiPostId="134888" />
+  <row Id="493" TagName="integrable-systems" Count="122" />
+  <row Id="494" TagName="coxeter-groups" Count="198" ExcerptPostId="328024" WikiPostId="328023" />
+  <row Id="495" TagName="integer-programming" Count="152" ExcerptPostId="178096" WikiPostId="178095" />
+  <row Id="496" TagName="economics" Count="47" />
+  <row Id="498" TagName="tag-removed" Count="367" ExcerptPostId="137797" WikiPostId="137796" />
+  <row Id="499" TagName="oeis" Count="65" ExcerptPostId="137497" WikiPostId="137496" />
+  <row Id="501" TagName="it.information-theory" Count="477" ExcerptPostId="134917" WikiPostId="134916" />
+  <row Id="502" TagName="coding-theory" Count="235" ExcerptPostId="135597" WikiPostId="135596" />
+  <row Id="503" TagName="alexandrov-geometry" Count="167" ExcerptPostId="137924" WikiPostId="137923" />
+  <row Id="506" TagName="kt.k-theory-and-homology" Count="769" ExcerptPostId="134915" WikiPostId="134914" />
+  <row Id="508" TagName="representable-functors" Count="76" />
+  <row Id="509" TagName="canonical-bases" Count="20" />
+  <row Id="510" TagName="super-algebra" Count="29" />
+  <row Id="511" TagName="positivity" Count="110" />
+  <row Id="512" TagName="weyl-group" Count="116" ExcerptPostId="328026" WikiPostId="328025" />
+  <row Id="514" TagName="convexity" Count="492" />
+  <row Id="515" TagName="convex-polytopes" Count="746" ExcerptPostId="136230" WikiPostId="136229" />
+  <row Id="516" TagName="species" Count="7" />
+  <row Id="517" TagName="group-cohomology" Count="662" ExcerptPostId="256668" WikiPostId="256667" />
+  <row Id="519" TagName="discrete-geometry" Count="1153" ExcerptPostId="148921" WikiPostId="148920" />
+  <row Id="520" TagName="additive-combinatorics" Count="492" ExcerptPostId="135482" WikiPostId="135481" />
+  <row Id="521" TagName="ra.rings-and-algebras" Count="2415" ExcerptPostId="134881" WikiPostId="134880" />
+  <row Id="522" TagName="topological-graph-theory" Count="54" ExcerptPostId="230173" WikiPostId="230172" />
+  <row Id="524" TagName="cyclic-spaces" Count="2" />
+  <row Id="525" TagName="classifying-spaces" Count="155" ExcerptPostId="282412" WikiPostId="282411" />
+  <row Id="526" TagName="cobordism" Count="194" ExcerptPostId="165615" WikiPostId="165614" />
+  <row Id="527" TagName="jacobians" Count="130" />
+  <row Id="529" TagName="notation" Count="229" />
+  <row Id="530" TagName="iwasawa-theory" Count="113" />
+  <row Id="532" TagName="hida-theory" Count="17" />
+  <row Id="533" TagName="clifford-algebras" Count="101" />
+  <row Id="534" TagName="conformal-geometry" Count="152" />
+  <row Id="535" TagName="digits" Count="31" />
+  <row Id="538" TagName="kobayashi-hyperbolicity" Count="9" />
+  <row Id="539" TagName="spin-geometry" Count="159" ExcerptPostId="285253" WikiPostId="285252" />
+  <row Id="540" TagName="crystals" Count="36" />
+  <row Id="541" TagName="stick-knots" Count="16" />
+  <row Id="542" TagName="characteristic-p" Count="232" ExcerptPostId="273422" WikiPostId="273421" />
+  <row Id="543" TagName="conic-sections" Count="43" />
+  <row Id="545" TagName="mathematical-modeling" Count="85" ExcerptPostId="267100" WikiPostId="267099" />
+  <row Id="546" TagName="forcing" Count="713" ExcerptPostId="135579" WikiPostId="135578" />
+  <row Id="547" TagName="large-cardinals" Count="566" />
+  <row Id="549" TagName="rigid-analytic-geometry" Count="154" ExcerptPostId="191036" WikiPostId="191035" />
+  <row Id="551" TagName="partition-of-unity" Count="11" />
+  <row Id="553" TagName="differential-topology" Count="1322" ExcerptPostId="146520" WikiPostId="146519" />
+  <row Id="555" TagName="game-theory" Count="249" />
+  <row Id="556" TagName="3-manifolds" Count="442" ExcerptPostId="236799" WikiPostId="236798" />
+  <row Id="557" TagName="complex-multiplication" Count="88" />
+  <row Id="558" TagName="big-list" Count="800" ExcerptPostId="134838" WikiPostId="134837" />
+  <row Id="559" TagName="approximation-theory" Count="445" ExcerptPostId="269450" WikiPostId="269449" />
+  <row Id="562" TagName="matrices" Count="2477" ExcerptPostId="135930" WikiPostId="135929" />
+  <row Id="563" TagName="galois-theory" Count="612" ExcerptPostId="236961" WikiPostId="236960" />
+  <row Id="564" TagName="algebraic-theory" Count="6" />
+  <row Id="567" TagName="mapping-class-groups" Count="217" ExcerptPostId="134947" WikiPostId="134946" />
+  <row Id="568" TagName="valuation-theory" Count="103" />
+  <row Id="569" TagName="hausdorff-spaces" Count="22" ExcerptPostId="357226" WikiPostId="357225" />
+  <row Id="572" TagName="enumerative-geometry" Count="70" />
+  <row Id="574" TagName="inequalities" Count="1137" ExcerptPostId="255993" WikiPostId="255992" />
+  <row Id="576" TagName="algebraic-cycles" Count="130" />
+  <row Id="577" TagName="type-theory" Count="123" />
+  <row Id="578" TagName="estimation-theory" Count="72" />
+  <row Id="581" TagName="reference-request" Count="11316" ExcerptPostId="135371" WikiPostId="135370" />
+  <row Id="582" TagName="determinants" Count="391" ExcerptPostId="203535" WikiPostId="203534" />
+  <row Id="583" TagName="symmetric-groups" Count="315" ExcerptPostId="154856" WikiPostId="154855" />
+  <row Id="587" TagName="quantum-topology" Count="71" ExcerptPostId="137638" WikiPostId="137637" />
+  <row Id="589" TagName="problem-solving" Count="49" />
+  <row Id="591" TagName="real-algebra" Count="28" />
+  <row Id="595" TagName="w-algebras" Count="10" />
+  <row Id="596" TagName="euclidean-geometry" Count="377" ExcerptPostId="236936" WikiPostId="236935" />
+  <row Id="597" TagName="nonstandard-analysis" Count="93" ExcerptPostId="136769" WikiPostId="136768" />
+  <row Id="599" TagName="fractals" Count="202" ExcerptPostId="178085" WikiPostId="178084" />
+  <row Id="600" TagName="recreational-mathematics" Count="201" ExcerptPostId="140486" WikiPostId="140485" />
+  <row Id="601" TagName="convex-geometry" Count="714" ExcerptPostId="231019" WikiPostId="231018" />
+  <row Id="602" TagName="periodic-functions" Count="27" />
+  <row Id="605" TagName="nilpotent-cone" Count="5" />
+  <row Id="606" TagName="combinatorial-identities" Count="109" />
+  <row Id="607" TagName="prime-numbers" Count="1583" ExcerptPostId="135484" WikiPostId="135483" />
+  <row Id="608" TagName="hodge-theory" Count="365" ExcerptPostId="236449" WikiPostId="236448" />
+  <row Id="610" TagName="locally-ringed-spaces" Count="15" />
+  <row Id="611" TagName="modules" Count="488" ExcerptPostId="228110" WikiPostId="228109" />
+  <row Id="612" TagName="posets" Count="299" ExcerptPostId="154829" WikiPostId="154828" />
+  <row Id="614" TagName="society" Count="4" />
+  <row Id="615" TagName="universal-algebra" Count="309" ExcerptPostId="196366" WikiPostId="196365" />
+  <row Id="616" TagName="polymath5" Count="15" ExcerptPostId="287073" WikiPostId="287072" />
+  <row Id="617" TagName="lambda-calculus" Count="58" ExcerptPostId="186721" WikiPostId="186720" />
+  <row Id="620" TagName="experimental-mathematics" Count="48" ExcerptPostId="180590" WikiPostId="180589" />
+  <row Id="621" TagName="reverse-math" Count="121" ExcerptPostId="137026" WikiPostId="137025" />
+  <row Id="622" TagName="classical-invariant-theory" Count="60" />
+  <row Id="623" TagName="complex-dynamics" Count="155" ExcerptPostId="149995" WikiPostId="149994" />
+  <row Id="624" TagName="complex-manifolds" Count="269" ExcerptPostId="245391" WikiPostId="245390" />
+  <row Id="627" TagName="iterated-integral" Count="9" />
+  <row Id="629" TagName="quantum-mechanics" Count="286" ExcerptPostId="264877" WikiPostId="264876" />
+  <row Id="632" TagName="foliations" Count="213" />
+  <row Id="635" TagName="exponential-polynomials" Count="36" ExcerptPostId="161739" WikiPostId="161738" />
+  <row Id="637" TagName="connections" Count="240" ExcerptPostId="236754" WikiPostId="236753" />
+  <row Id="638" TagName="signal-analysis" Count="80" />
+  <row Id="639" TagName="bioinformatics" Count="10" />
+  <row Id="642" TagName="slick-proof" Count="17" />
+  <row Id="646" TagName="integration" Count="1008" ExcerptPostId="231025" WikiPostId="231024" />
+  <row Id="647" TagName="tensor" Count="108" />
+  <row Id="648" TagName="hypergraph" Count="185" ExcerptPostId="158078" WikiPostId="158077" />
+  <row Id="649" TagName="lambda-rings" Count="16" ExcerptPostId="300602" WikiPostId="300601" />
+  <row Id="650" TagName="adams-operations" Count="8" ExcerptPostId="300684" WikiPostId="300683" />
+  <row Id="652" TagName="mathscinet" Count="20" ExcerptPostId="150645" WikiPostId="150644" />
+  <row Id="654" TagName="elimination-theory" Count="22" ExcerptPostId="140141" WikiPostId="140140" />
+  <row Id="657" TagName="symbolic-dynamics" Count="133" ExcerptPostId="150020" WikiPostId="150019" />
+  <row Id="658" TagName="picard-group" Count="108" />
+  <row Id="660" TagName="diagram-chase" Count="11" ExcerptPostId="145856" WikiPostId="145855" />
+  <row Id="668" TagName="discrepancy-theory" Count="39" />
+  <row Id="669" TagName="global-optimization" Count="185" />
+  <row Id="670" TagName="bibliography" Count="18" />
+  <row Id="671" TagName="injective-modules" Count="43" ExcerptPostId="154960" WikiPostId="154959" />
+  <row Id="672" TagName="pontrjagin-duality" Count="17" />
+  <row Id="673" TagName="haar-measure" Count="117" ExcerptPostId="237538" WikiPostId="237537" />
+  <row Id="674" TagName="central-simple-algebras" Count="37" />
+  <row Id="676" TagName="differential-operators" Count="413" ExcerptPostId="135368" WikiPostId="135367" />
+  <row Id="677" TagName="bourbaki" Count="22" />
+  <row Id="681" TagName="unique-factorization-domains" Count="15" />
+  <row Id="682" TagName="hall-algebras" Count="7" />
+  <row Id="683" TagName="ergodic-theory" Count="696" ExcerptPostId="149997" WikiPostId="149996" />
+  <row Id="684" TagName="hochschild-cohomology" Count="87" />
+  <row Id="685" TagName="dg-categories" Count="71" ExcerptPostId="171869" WikiPostId="171868" />
+  <row Id="686" TagName="morita-equivalence" Count="49" ExcerptPostId="157637" WikiPostId="157636" />
+  <row Id="688" TagName="axiom-of-choice" Count="391" ExcerptPostId="236893" WikiPostId="236892" />
+  <row Id="690" TagName="brauer-groups" Count="73" ExcerptPostId="312346" WikiPostId="312345" />
+  <row Id="692" TagName="differential-galois-theory" Count="8" />
+  <row Id="693" TagName="differential-algebra" Count="26" />
+  <row Id="694" TagName="communication-complexity" Count="4" />
+  <row Id="696" TagName="supermanifolds" Count="46" />
+  <row Id="699" TagName="catalan-numbers" Count="68" ExcerptPostId="154660" WikiPostId="154659" />
+  <row Id="700" TagName="proof-assistants" Count="49" ExcerptPostId="157402" WikiPostId="157401" />
+  <row Id="702" TagName="peer-review" Count="24" />
+  <row Id="703" TagName="tate-shafarevich-groups" Count="13" />
+  <row Id="704" TagName="fundamental-group" Count="205" />
+  <row Id="706" TagName="string-topology" Count="23" />
+  <row Id="707" TagName="t-structure" Count="14" ExcerptPostId="260290" WikiPostId="260289" />
+  <row Id="708" TagName="statistical-physics" Count="162" ExcerptPostId="285617" WikiPostId="285616" />
+  <row Id="709" TagName="group-schemes" Count="152" />
+  <row Id="710" TagName="difference-equations" Count="60" ExcerptPostId="227055" WikiPostId="227054" />
+  <row Id="714" TagName="abstract-algebra" Count="172" ExcerptPostId="233412" WikiPostId="233411" />
+  <row Id="715" TagName="axioms" Count="86" />
+  <row Id="716" TagName="formalization" Count="14" ExcerptPostId="220392" WikiPostId="220391" />
+  <row Id="719" TagName="quantization" Count="69" ExcerptPostId="177339" WikiPostId="177338" />
+  <row Id="720" TagName="ind-schemes" Count="16" />
+  <row Id="724" TagName="boolean-algebras" Count="189" ExcerptPostId="325007" WikiPostId="325006" />
+  <row Id="725" TagName="probabilistic-number-theory" Count="47" />
+  <row Id="726" TagName="sums-of-squares" Count="129" />
+  <row Id="727" TagName="terminology" Count="695" ExcerptPostId="213240" WikiPostId="213239" />
+  <row Id="728" TagName="holonomy" Count="61" />
+  <row Id="729" TagName="spectral-triples" Count="7" />
+  <row Id="730" TagName="surgery-theory" Count="66" ExcerptPostId="257009" WikiPostId="257008" />
+  <row Id="735" TagName="decision-trees" Count="4" />
+  <row Id="736" TagName="calabi-yau" Count="125" ExcerptPostId="159594" WikiPostId="159593" />
+  <row Id="737" TagName="orthogonal-polynomials" Count="165" ExcerptPostId="194787" WikiPostId="194786" />
+  <row Id="738" TagName="local-fields" Count="170" />
+  <row Id="740" TagName="division-algebras" Count="62" />
+  <row Id="741" TagName="alternative-proof" Count="57" ExcerptPostId="140464" WikiPostId="140463" />
+  <row Id="745" TagName="torsion-theory" Count="10" ExcerptPostId="373305" WikiPostId="373304" />
+  <row Id="749" TagName="quaternions" Count="107" />
+  <row Id="750" TagName="diophantine-approximation" Count="258" />
+  <row Id="751" TagName="quadratic-residues" Count="61" />
+  <row Id="753" TagName="coherent-sheaves" Count="178" />
+  <row Id="756" TagName="latin-square" Count="38" ExcerptPostId="235768" WikiPostId="235767" />
+  <row Id="758" TagName="steiner-triple-system" Count="13" />
+  <row Id="759" TagName="thesis" Count="9" ExcerptPostId="236733" WikiPostId="236732" />
+  <row Id="761" TagName="tannakian-category" Count="77" />
+  <row Id="762" TagName="renormalization" Count="21" />
+  <row Id="763" TagName="binary-quadratic-forms" Count="63" ExcerptPostId="184744" WikiPostId="184743" />
+  <row Id="766" TagName="sparse-matrices" Count="54" />
+  <row Id="767" TagName="queueing-theory" Count="25" />
+  <row Id="772" TagName="chromatic-polynomial" Count="21" />
+  <row Id="773" TagName="packing-and-covering" Count="117" />
+  <row Id="774" TagName="orbifolds" Count="110" />
+  <row Id="775" TagName="banach-algebras" Count="276" />
+  <row Id="780" TagName="computational-number-theory" Count="305" ExcerptPostId="266577" WikiPostId="266576" />
+  <row Id="781" TagName="solvable-groups" Count="39" ExcerptPostId="236475" WikiPostId="236474" />
+  <row Id="783" TagName="systolic-geometry" Count="16" />
+  <row Id="785" TagName="quadratic-forms" Count="407" />
+  <row Id="787" TagName="linear-programming" Count="417" ExcerptPostId="230320" WikiPostId="230319" />
+  <row Id="788" TagName="schubert-cells" Count="10" />
+  <row Id="795" TagName="rational-homotopy-theory" Count="82" />
+  <row Id="796" TagName="hecke-algebras" Count="122" />
+  <row Id="798" TagName="dedekind-domains" Count="35" />
+  <row Id="803" TagName="shimura-varieties" Count="113" />
+  <row Id="807" TagName="compactifications" Count="85" />
+  <row Id="808" TagName="equivariant" Count="73" />
+  <row Id="811" TagName="multiset" Count="9" />
+  <row Id="812" TagName="anosov-systems" Count="17" />
+  <row Id="815" TagName="realizability" Count="8" ExcerptPostId="334643" WikiPostId="334642" />
+  <row Id="816" TagName="ultrapowers" Count="60" />
+  <row Id="818" TagName="translation" Count="62" ExcerptPostId="250696" WikiPostId="250695" />
+  <row Id="821" TagName="fixed-point-theorems" Count="183" ExcerptPostId="236778" WikiPostId="236777" />
+  <row Id="822" TagName="convention" Count="11" />
+  <row Id="827" TagName="plane-geometry" Count="355" ExcerptPostId="269685" WikiPostId="269684" />
+  <row Id="828" TagName="partitions" Count="284" />
+  <row Id="829" TagName="linkage" Count="10" />
+  <row Id="830" TagName="holomorphic-symplectic" Count="58" ExcerptPostId="206721" WikiPostId="206720" />
+  <row Id="835" TagName="siegel-modular-forms" Count="27" />
+  <row Id="836" TagName="trace-formula" Count="37" ExcerptPostId="228192" WikiPostId="228191" />
+  <row Id="838" TagName="minimal-model-program" Count="95" ExcerptPostId="247575" WikiPostId="247574" />
+  <row Id="840" TagName="function-spaces" Count="32" />
+  <row Id="841" TagName="projective-geometry" Count="474" />
+  <row Id="845" TagName="quasimodular-forms" Count="12" />
+  <row Id="846" TagName="functional-equations" Count="166" />
+  <row Id="847" TagName="geometric-structures" Count="9" />
+  <row Id="849" TagName="berkovich-geometry" Count="53" />
+  <row Id="854" TagName="stein-manifolds" Count="21" />
+  <row Id="859" TagName="group-algebras" Count="44" />
+  <row Id="860" TagName="crossed-products" Count="15" />
+  <row Id="862" TagName="integral-kernel" Count="64" />
+  <row Id="867" TagName="citations" Count="21" ExcerptPostId="178099" WikiPostId="178098" />
+  <row Id="868" TagName="erdos" Count="26" />
+  <row Id="870" TagName="feynman-integral" Count="17" />
+  <row Id="873" TagName="fractions" Count="7" />
+  <row Id="874" TagName="descriptive-set-theory" Count="459" ExcerptPostId="203329" WikiPostId="203328" />
+  <row Id="875" TagName="hypergeometric-functions" Count="189" ExcerptPostId="156990" WikiPostId="156989" />
+  <row Id="877" TagName="simulation" Count="39" />
+  <row Id="883" TagName="polylogarithms" Count="32" ExcerptPostId="273807" WikiPostId="273806" />
+  <row Id="884" TagName="goodstein-sequences" Count="4" ExcerptPostId="328076" WikiPostId="328075" />
+  <row Id="886" TagName="probability-distributions" Count="1361" ExcerptPostId="236946" WikiPostId="236945" />
+  <row Id="887" TagName="tiling" Count="178" />
+  <row Id="888" TagName="diophantine-equations" Count="658" ExcerptPostId="220347" WikiPostId="220346" />
+  <row Id="889" TagName="local-rings" Count="148" />
+  <row Id="892" TagName="factorization" Count="177" ExcerptPostId="288149" WikiPostId="288148" />
+  <row Id="897" TagName="classical-mechanics" Count="154" />
+  <row Id="898" TagName="characters" Count="155" ExcerptPostId="363698" WikiPostId="363697" />
+  <row Id="904" TagName="metric-spaces" Count="232" ExcerptPostId="230465" WikiPostId="230464" />
+  <row Id="905" TagName="congruences" Count="93" />
+  <row Id="906" TagName="bayesian-probability" Count="66" />
+  <row Id="908" TagName="lie-algebroids" Count="32" ExcerptPostId="298263" WikiPostId="298262" />
+  <row Id="909" TagName="abstract-polytopes" Count="13" ExcerptPostId="179043" WikiPostId="179042" />
+  <row Id="912" TagName="lie-superalgebras" Count="66" />
+  <row Id="913" TagName="unbounded-operators" Count="82" />
+  <row Id="914" TagName="combinatorial-group-theory" Count="112" />
+  <row Id="917" TagName="analytic-continuation" Count="49" />
+  <row Id="918" TagName="hyperbolic-dynamics" Count="49" />
+  <row Id="922" TagName="duality" Count="203" ExcerptPostId="235818" WikiPostId="235817" />
+  <row Id="923" TagName="motivic-homotopy" Count="99" />
+  <row Id="926" TagName="learning-theory" Count="63" ExcerptPostId="267097" WikiPostId="267096" />
+  <row Id="927" TagName="polytopes" Count="69" />
+  <row Id="933" TagName="wcatss" Count="3" />
+  <row Id="934" TagName="fluid-dynamics" Count="86" />
+  <row Id="937" TagName="galois-descent" Count="32" />
+  <row Id="938" TagName="transcendence" Count="47" />
+  <row Id="941" TagName="symmetry" Count="83" />
+  <row Id="943" TagName="galois-cohomology" Count="189" />
+  <row Id="947" TagName="poisson-geometry" Count="95" ExcerptPostId="156081" WikiPostId="156080" />
+  <row Id="953" TagName="accessible-categories" Count="37" />
+  <row Id="956" TagName="data-analysis" Count="49" />
+  <row Id="957" TagName="sequences-and-series" Count="1091" ExcerptPostId="236803" WikiPostId="236802" />
+  <row Id="959" TagName="icm-2010" Count="2" ExcerptPostId="156567" WikiPostId="156566" />
+  <row Id="968" TagName="cartesian-closed-categories" Count="35" />
+  <row Id="971" TagName="computational-linguistics" Count="5" />
+  <row Id="972" TagName="linguistics" Count="3" />
+  <row Id="980" TagName="weights" Count="64" />
+  <row Id="982" TagName="algebraic-combinatorics" Count="220" />
+  <row Id="983" TagName="harmonic-analysis" Count="1000" ExcerptPostId="204605" WikiPostId="204604" />
+  <row Id="990" TagName="pl-manifolds" Count="10" />
+  <row Id="996" TagName="eigenvector" Count="214" ExcerptPostId="237070" WikiPostId="237069" />
+  <row Id="998" TagName="computational-complexity" Count="1078" ExcerptPostId="138262" WikiPostId="138261" />
+  <row Id="1001" TagName="outer-automorphisms" Count="21" />
+  <row Id="1004" TagName="compressed-sensing" Count="41" />
+  <row Id="1007" TagName="gaussian-elimination" Count="7" />
+  <row Id="1009" TagName="geometric-measure-theory" Count="481" ExcerptPostId="211088" WikiPostId="211087" />
+  <row Id="1010" TagName="chess" Count="40" ExcerptPostId="149581" WikiPostId="149580" />
+  <row Id="1012" TagName="sheaf-cohomology" Count="252" />
+  <row Id="1013" TagName="borel-sets" Count="69" />
+  <row Id="1015" TagName="dual-pairs" Count="11" />
+  <row Id="1016" TagName="ordinal-numbers" Count="155" ExcerptPostId="230341" WikiPostId="230340" />
+  <row Id="1019" TagName="noncommutative-topology" Count="22" />
+  <row Id="1023" TagName="ade-classifications" Count="13" />
+  <row Id="1027" TagName="transcendental-number-theory" Count="119" />
+  <row Id="1028" TagName="arakelov-theory" Count="42" />
+  <row Id="1029" TagName="abc-conjecture" Count="58" />
+  <row Id="1034" TagName="gr.group-theory" Count="6400" ExcerptPostId="134836" WikiPostId="134835" />
+  <row Id="1035" TagName="calculus-of-functors" Count="6" ExcerptPostId="145076" WikiPostId="145075" />
+  <row Id="1036" TagName="invertible-sheaves" Count="14" />
+  <row Id="1038" TagName="quantum-computation" Count="42" ExcerptPostId="230816" WikiPostId="230815" />
+  <row Id="1039" TagName="weil-conjectures" Count="53" />
+  <row Id="1042" TagName="unit-fractions" Count="13" />
+  <row Id="1044" TagName="induced-representations" Count="39" />
+  <row Id="1047" TagName="morita-theory" Count="9" />
+  <row Id="1049" TagName="lie-groupoids" Count="64" />
+  <row Id="1050" TagName="surfaces" Count="206" ExcerptPostId="187268" WikiPostId="187267" />
+  <row Id="1051" TagName="cohen-macaulay-rings" Count="56" />
+  <row Id="1066" TagName="abelian-groups" Count="170" />
+  <row Id="1075" TagName="computable-analysis" Count="19" />
+  <row Id="1076" TagName="algebraic-equations" Count="36" />
+  <row Id="1077" TagName="operator-ideals" Count="8" />
+  <row Id="1084" TagName="galois-connection" Count="3" ExcerptPostId="236949" WikiPostId="236948" />
+  <row Id="1090" TagName="analytic-geometry" Count="82" ExcerptPostId="269945" WikiPostId="269944" />
+  <row Id="1092" TagName="internal-categories" Count="18" />
+  <row Id="1093" TagName="kernels" Count="61" />
+  <row Id="1098" TagName="geometric-analysis" Count="91" ExcerptPostId="238252" WikiPostId="238251" />
+  <row Id="1100" TagName="seifert-fiber-spaces" Count="13" />
+  <row Id="1107" TagName="schwartz-distributions" Count="234" ExcerptPostId="200799" WikiPostId="200798" />
+  <row Id="1108" TagName="tangent-distributions" Count="13" />
+  <row Id="1109" TagName="constructive-mathematics" Count="170" ExcerptPostId="342761" WikiPostId="342760" />
+  <row Id="1111" TagName="modular-group" Count="37" />
+  <row Id="1113" TagName="finite-type-invariants" Count="3" />
+  <row Id="1115" TagName="operator-spaces" Count="23" />
+  <row Id="1116" TagName="graph-minors" Count="62" ExcerptPostId="173418" WikiPostId="173417" />
+  <row Id="1120" TagName="nim" Count="13" />
+  <row Id="1121" TagName="fair-division" Count="12" ExcerptPostId="330685" WikiPostId="330684" />
+  <row Id="1123" TagName="automorphism-groups" Count="207" ExcerptPostId="145666" WikiPostId="145665" />
+  <row Id="1124" TagName="groebner-bases" Count="74" />
+  <row Id="1127" TagName="ricci-flow" Count="90" ExcerptPostId="238250" WikiPostId="238249" />
+  <row Id="1129" TagName="integral-transforms" Count="209" />
+  <row Id="1130" TagName="gn.general-topology" Count="3469" ExcerptPostId="134870" WikiPostId="134869" />
+  <row Id="1133" TagName="ho.history-overview" Count="1186" ExcerptPostId="134919" WikiPostId="134918" />
+  <row Id="1135" TagName="general-relativity" Count="135" ExcerptPostId="264894" WikiPostId="264893" />
+  <row Id="1137" TagName="gm.general-mathematics" Count="244" ExcerptPostId="304953" WikiPostId="304952" />
+  <row Id="1139" TagName="ds.dynamical-systems" Count="1888" ExcerptPostId="134893" WikiPostId="134892" />
+  <row Id="1140" TagName="vanishing" Count="9" />
+  <row Id="1141" TagName="cycles" Count="37" />
+  <row Id="1144" TagName="induction" Count="44" />
+  <row Id="1146" TagName="completion" Count="50" />
+  <row Id="1148" TagName="fuchsian-groups" Count="47" ExcerptPostId="280361" WikiPostId="280360" />
+  <row Id="1149" TagName="stochastic-processes" Count="1707" ExcerptPostId="140223" WikiPostId="140222" />
+  <row Id="1151" TagName="computational-group-theory" Count="73" />
+  <row Id="1153" TagName="arithmetic-progression" Count="126" ExcerptPostId="230497" WikiPostId="230496" />
+  <row Id="1155" TagName="uniform-spaces" Count="48" />
+  <row Id="1156" TagName="applied-mathematics" Count="123" />
+  <row Id="1160" TagName="regularity" Count="146" ExcerptPostId="320837" WikiPostId="320836" />
+  <row Id="1163" TagName="euclidean-domain" Count="13" />
+  <row Id="1164" TagName="elliptic-pde" Count="705" ExcerptPostId="134995" WikiPostId="134994" />
+  <row Id="1165" TagName="moser-iteration" Count="3" />
+  <row Id="1167" TagName="fibered-categories" Count="21" />
+  <row Id="1168" TagName="computation" Count="30" />
+  <row Id="1169" TagName="gray-codes" Count="9" ExcerptPostId="135592" WikiPostId="135591" />
+  <row Id="1171" TagName="chaos" Count="36" />
+  <row Id="1172" TagName="potential-theory" Count="146" />
+  <row Id="1175" TagName="ramification" Count="60" />
+  <row Id="1176" TagName="einstein-theory" Count="5" />
+  <row Id="1181" TagName="random-walks" Count="387" ExcerptPostId="237004" WikiPostId="237003" />
+  <row Id="1185" TagName="entropy" Count="225" ExcerptPostId="237074" WikiPostId="237073" />
+  <row Id="1186" TagName="enriched-category-theory" Count="92" />
+  <row Id="1189" TagName="perturbation" Count="30" />
+  <row Id="1191" TagName="jordan-algebras" Count="25" ExcerptPostId="280180" WikiPostId="280179" />
+  <row Id="1192" TagName="geometry-of-numbers" Count="64" />
+  <row Id="1193" TagName="martingales" Count="193" />
+  <row Id="1196" TagName="internal-groupoids" Count="6" />
+  <row Id="1198" TagName="polymath3" Count="2" ExcerptPostId="288421" WikiPostId="288420" />
+  <row Id="1201" TagName="root-systems" Count="195" />
+  <row Id="1206" TagName="grothendieck-construction" Count="18" />
+  <row Id="1207" TagName="cohomological-dimension" Count="9" />
+  <row Id="1212" TagName="voting-theory" Count="7" />
+  <row Id="1218" TagName="orbit-method" Count="5" />
+  <row Id="1225" TagName="approximation-algorithms" Count="123" ExcerptPostId="230348" WikiPostId="230347" />
+  <row Id="1228" TagName="discrete-mathematics" Count="132" ExcerptPostId="230820" WikiPostId="230819" />
+  <row Id="1229" TagName="bruhat-order" Count="29" />
+  <row Id="1236" TagName="determinacy" Count="60" />
+  <row Id="1239" TagName="grothendieck-topology" Count="96" />
+  <row Id="1240" TagName="etcs" Count="7" ExcerptPostId="224337" WikiPostId="224336" />
+  <row Id="1241" TagName="fractional-calculus" Count="110" ExcerptPostId="198560" WikiPostId="198559" />
+  <row Id="1246" TagName="infinity-topos-theory" Count="87" />
+  <row Id="1248" TagName="banach-manifold" Count="30" />
+  <row Id="1249" TagName="frechet-manifold" Count="33" />
+  <row Id="1250" TagName="algebraic-graph-theory" Count="110" ExcerptPostId="230191" WikiPostId="230190" />
+  <row Id="1256" TagName="chow-groups" Count="74" />
+  <row Id="1260" TagName="measure-concentration" Count="257" />
+  <row Id="1261" TagName="operator-norms" Count="100" />
+  <row Id="1265" TagName="sketches" Count="8" ExcerptPostId="156130" WikiPostId="156129" />
+  <row Id="1267" TagName="gelfand-duality" Count="20" />
+  <row Id="1270" TagName="flips-flops" Count="12" />
+  <row Id="1272" TagName="linear-logic" Count="24" />
+  <row Id="1273" TagName="effective-results" Count="22" />
+  <row Id="1274" TagName="cup-product" Count="22" />
+  <row Id="1275" TagName="etymology" Count="16" ExcerptPostId="149579" WikiPostId="149578" />
+  <row Id="1278" TagName="quantum-cohomology" Count="10" />
+  <row Id="1279" TagName="galois-groups" Count="37" />
+  <row Id="1282" TagName="topological-vector-spaces" Count="229" ExcerptPostId="230688" WikiPostId="230687" />
+  <row Id="1283" TagName="fractional-iteration" Count="35" ExcerptPostId="161686" WikiPostId="161685" />
+  <row Id="1284" TagName="square-free" Count="20" ExcerptPostId="190726" WikiPostId="190725" />
+  <row Id="1289" TagName="graph-drawing" Count="24" ExcerptPostId="230181" WikiPostId="230180" />
+  <row Id="1290" TagName="integral-geometry" Count="45" />
+  <row Id="1291" TagName="ringed-spaces" Count="8" />
+  <row Id="1292" TagName="quasi-coherent-modules" Count="26" />
+  <row Id="1294" TagName="cw-complexes" Count="109" />
+  <row Id="1295" TagName="mapping-space" Count="21" />
+  <row Id="1297" TagName="filters" Count="42" />
+  <row Id="1298" TagName="q-analogs" Count="75" />
+  <row Id="1303" TagName="modal-logic" Count="74" />
+  <row Id="1305" TagName="roots-of-unity" Count="54" />
+  <row Id="1306" TagName="special-relativity" Count="9" />
+  <row Id="1307" TagName="interpolation" Count="131" ExcerptPostId="166148" WikiPostId="166147" />
+  <row Id="1311" TagName="buildings" Count="76" />
+  <row Id="1313" TagName="linear-groups" Count="46" />
+  <row Id="1314" TagName="rigged-hilbert-spaces" Count="8" ExcerptPostId="237086" WikiPostId="237085" />
+  <row Id="1315" TagName="k-homology" Count="4" />
+  <row Id="1318" TagName="intersection-cohomology" Count="43" />
+  <row Id="1319" TagName="involutions" Count="48" />
+  <row Id="1320" TagName="classical-groups" Count="31" />
+  <row Id="1321" TagName="spectral-graph-theory" Count="312" ExcerptPostId="197980" WikiPostId="197979" />
+  <row Id="1322" TagName="random-graphs" Count="250" ExcerptPostId="230217" WikiPostId="230216" />
+  <row Id="1324" TagName="virtual-knots" Count="11" />
+  <row Id="1326" TagName="teichmuller-theory" Count="200" />
+  <row Id="1327" TagName="albert-algebras" Count="2" ExcerptPostId="236721" WikiPostId="236720" />
+  <row Id="1332" TagName="amenability" Count="128" ExcerptPostId="280464" WikiPostId="280463" />
+  <row Id="1336" TagName="abstract-nonsense" Count="21" ExcerptPostId="135085" WikiPostId="135084" />
+  <row Id="1342" TagName="power-series" Count="296" />
+  <row Id="1345" TagName="moment-map" Count="25" />
+  <row Id="1346" TagName="cohomology-operations" Count="12" />
+  <row Id="1351" TagName="pseudogroups" Count="5" />
+  <row Id="1352" TagName="riemann-hypothesis" Count="172" ExcerptPostId="145895" WikiPostId="145894" />
+  <row Id="1353" TagName="schrodinger-operators" Count="121" />
+  <row Id="1355" TagName="prufer-domain" Count="7" />
+  <row Id="1359" TagName="polyhedra" Count="188" />
+  <row Id="1362" TagName="quadrature" Count="19" />
+  <row Id="1363" TagName="infinite-combinatorics" Count="284" ExcerptPostId="325350" WikiPostId="325349" />
+  <row Id="1364" TagName="cotangent-bundles" Count="33" />
+  <row Id="1368" TagName="lagrangian-submanifolds" Count="48" />
+  <row Id="1369" TagName="nauty" Count="7" ExcerptPostId="198661" WikiPostId="198660" />
+  <row Id="1370" TagName="group-rings" Count="50" ExcerptPostId="168739" WikiPostId="168738" />
+  <row Id="1372" TagName="resultants" Count="25" />
+  <row Id="1374" TagName="slodowy-slice" Count="5" />
+  <row Id="1376" TagName="image-processing" Count="26" ExcerptPostId="195463" WikiPostId="195462" />
+  <row Id="1379" TagName="foundations" Count="226" />
+  <row Id="1380" TagName="symmetric-monoidal-categories" Count="60" />
+  <row Id="1381" TagName="extremal-set-theory" Count="32" />
+  <row Id="1383" TagName="kahler-differentials" Count="31" ExcerptPostId="238211" WikiPostId="238210" />
+  <row Id="1384" TagName="filtered-algebras" Count="8" />
+  <row Id="1385" TagName="transformation-groups" Count="32" />
+  <row Id="1388" TagName="integer-sequences" Count="219" ExcerptPostId="160448" WikiPostId="160447" />
+  <row Id="1391" TagName="quaternionic-geometry" Count="28" />
+  <row Id="1399" TagName="billiards" Count="55" ExcerptPostId="136071" WikiPostId="136070" />
+  <row Id="1403" TagName="torsion" Count="23" />
+  <row Id="1404" TagName="infinite-sequences" Count="50" />
+  <row Id="1407" TagName="primitive-roots" Count="19" ExcerptPostId="287305" WikiPostId="287304" />
+  <row Id="1410" TagName="mathematical-software" Count="144" ExcerptPostId="231022" WikiPostId="231021" />
+  <row Id="1414" TagName="heights" Count="38" />
+  <row Id="1415" TagName="locales" Count="60" ExcerptPostId="211822" WikiPostId="211821" />
+  <row Id="1416" TagName="existence-theorems" Count="36" />
+  <row Id="1422" TagName="separable-algebras" Count="20" ExcerptPostId="309432" WikiPostId="309431" />
+  <row Id="1423" TagName="curves-and-surfaces" Count="295" ExcerptPostId="269452" WikiPostId="269451" />
+  <row Id="1424" TagName="norms" Count="232" />
+  <row Id="1426" TagName="goldbach-type-problems" Count="63" />
+  <row Id="1428" TagName="arithmetic-functions" Count="89" />
+  <row Id="1434" TagName="generalized-smooth-spaces" Count="19" />
+  <row Id="1441" TagName="isometries" Count="79" />
+  <row Id="1446" TagName="p-groups" Count="111" />
+  <row Id="1449" TagName="crystalline-cohomology" Count="37" />
+  <row Id="1458" TagName="monster" Count="14" ExcerptPostId="156411" WikiPostId="156410" />
+  <row Id="1460" TagName="heuristics" Count="46" />
+  <row Id="1462" TagName="vanishing-cycles" Count="11" />
+  <row Id="1467" TagName="locally-convex-spaces" Count="124" ExcerptPostId="176026" WikiPostId="176025" />
+  <row Id="1475" TagName="ordinal-analysis" Count="34" />
+  <row Id="1479" TagName="linear-pde" Count="274" ExcerptPostId="135574" WikiPostId="135573" />
+  <row Id="1483" TagName="critical-point-theory" Count="34" />
+  <row Id="1487" TagName="rigidity" Count="24" />
+  <row Id="1489" TagName="laplacian" Count="200" ExcerptPostId="347476" WikiPostId="347475" />
+  <row Id="1490" TagName="incidence-geometry" Count="60" ExcerptPostId="229169" WikiPostId="229168" />
+  <row Id="1499" TagName="cyclic-homology" Count="41" ExcerptPostId="201256" WikiPostId="201255" />
+  <row Id="1500" TagName="free-lie-algebras" Count="20" />
+  <row Id="1502" TagName="reductive-groups" Count="288" ExcerptPostId="269425" WikiPostId="269424" />
+  <row Id="1503" TagName="formal-proof" Count="28" />
+  <row Id="1505" TagName="vector-spaces" Count="115" />
+  <row Id="1511" TagName="topos-theory" Count="440" />
+  <row Id="1512" TagName="profunctors" Count="19" />
+  <row Id="1513" TagName="multilinear-algebra" Count="128" ExcerptPostId="166146" WikiPostId="166145" />
+  <row Id="1515" TagName="classification" Count="49" />
+  <row Id="1519" TagName="toric-varieties" Count="224" ExcerptPostId="237006" WikiPostId="237005" />
+  <row Id="1521" TagName="koszul-algebras" Count="14" ExcerptPostId="151323" WikiPostId="151322" />
+  <row Id="1522" TagName="pbw-theorems" Count="8" />
+  <row Id="1524" TagName="higher-genus-curves" Count="16" />
+  <row Id="1526" TagName="elliptic-integrals" Count="16" />
+  <row Id="1530" TagName="similarity" Count="24" />
+  <row Id="1537" TagName="sofic-groups" Count="9" />
+  <row Id="1555" TagName="gaussian" Count="210" />
+  <row Id="1561" TagName="cluster-algebras" Count="81" ExcerptPostId="139123" WikiPostId="139122" />
+  <row Id="1563" TagName="surreal-numbers" Count="64" ExcerptPostId="272532" WikiPostId="272531" />
+  <row Id="1564" TagName="affine-grassmannian" Count="29" />
+  <row Id="1569" TagName="prime-number-theorem" Count="115" ExcerptPostId="230356" WikiPostId="230355" />
+  <row Id="1571" TagName="sobolev-spaces" Count="717" ExcerptPostId="236951" WikiPostId="236950" />
+  <row Id="1575" TagName="surreal-analysis" Count="13" />
+  <row Id="1577" TagName="combinatorial-hopf-algebras" Count="7" />
+  <row Id="1581" TagName="arithmetic-dynamics" Count="33" />
+  <row Id="1583" TagName="complete-positivity" Count="18" />
+  <row Id="1586" TagName="music-theory" Count="8" />
+  <row Id="1591" TagName="steenrod-algebra" Count="49" />
+  <row Id="1593" TagName="chern-classes" Count="130" ExcerptPostId="245476" WikiPostId="245475" />
+  <row Id="1595" TagName="matching-theory" Count="117" ExcerptPostId="157073" WikiPostId="157072" />
+  <row Id="1596" TagName="bipartite-graphs" Count="92" ExcerptPostId="158345" WikiPostId="158344" />
+  <row Id="1597" TagName="perfect-matchings" Count="90" ExcerptPostId="157930" WikiPostId="157929" />
+  <row Id="1603" TagName="differential-graded-lie-algebras" Count="6" />
+  <row Id="1609" TagName="lacunary-series" Count="4" />
+  <row Id="1610" TagName="quasiconformal" Count="55" />
+  <row Id="1613" TagName="regular-rings" Count="19" />
+  <row Id="1618" TagName="dirichlet-forms" Count="23" />
+  <row Id="1621" TagName="vertex-algebras" Count="68" />
+  <row Id="1626" TagName="o-minimal" Count="20" />
+  <row Id="1627" TagName="calculus-of-variations" Count="384" ExcerptPostId="237123" WikiPostId="237122" />
+  <row Id="1629" TagName="schur-multipliers" Count="24" />
+  <row Id="1630" TagName="collatz-conjecture" Count="49" ExcerptPostId="150739" WikiPostId="150738" />
+  <row Id="1633" TagName="symbolic-computation" Count="22" />
+  <row Id="1634" TagName="restricted-lie-algebras" Count="19" ExcerptPostId="353266" WikiPostId="353265" />
+  <row Id="1643" TagName="stable-category" Count="11" />
+  <row Id="1651" TagName="sphere-packing" Count="73" />
+  <row Id="1654" TagName="sieve-theory" Count="79" />
+  <row Id="1655" TagName="grothendieck-rings" Count="36" />
+  <row Id="1656" TagName="social-choice" Count="8" />
+  <row Id="1660" TagName="textbook-recommendation" Count="334" ExcerptPostId="135704" WikiPostId="135703" />
+  <row Id="1662" TagName="index-theory" Count="137" />
+  <row Id="1666" TagName="homological-dimension" Count="35" ExcerptPostId="151666" WikiPostId="151665" />
+  <row Id="1672" TagName="skein-relation" Count="17" />
+  <row Id="1684" TagName="hilbert-manifolds" Count="21" ExcerptPostId="204633" WikiPostId="204632" />
+  <row Id="1687" TagName="coq" Count="13" ExcerptPostId="227915" WikiPostId="227914" />
+  <row Id="1691" TagName="p-adic-groups" Count="192" />
+  <row Id="1693" TagName="character-varieties" Count="41" ExcerptPostId="180233" WikiPostId="180232" />
+  <row Id="1699" TagName="magma" Count="35" ExcerptPostId="135582" WikiPostId="135581" />
+  <row Id="1703" TagName="permutation-groups" Count="153" ExcerptPostId="328029" WikiPostId="328028" />
+  <row Id="1709" TagName="euclidean-lattices" Count="71" />
+  <row Id="1710" TagName="fans" Count="7" ExcerptPostId="236723" WikiPostId="236722" />
+  <row Id="1718" TagName="complete-intersection" Count="37" />
+  <row Id="1723" TagName="schur-functors" Count="28" />
+  <row Id="1725" TagName="quadrics" Count="25" />
+  <row Id="1733" TagName="p-adic-numbers" Count="148" ExcerptPostId="269706" WikiPostId="269705" />
+  <row Id="1734" TagName="proof-complexity" Count="13" />
+  <row Id="1743" TagName="pattern-avoidance" Count="4" />
+  <row Id="1744" TagName="pattern-matching" Count="8" />
+  <row Id="1748" TagName="hilbert-symbol" Count="8" />
+  <row Id="1753" TagName="khovanov-homology" Count="27" ExcerptPostId="282410" WikiPostId="282409" />
+  <row Id="1755" TagName="operator-theory" Count="951" ExcerptPostId="135365" WikiPostId="135364" />
+  <row Id="1759" TagName="ising-model" Count="21" ExcerptPostId="265945" WikiPostId="265944" />
+  <row Id="1762" TagName="bessel-potential" Count="9" />
+  <row Id="1776" TagName="finite-differences" Count="36" />
+  <row Id="1780" TagName="birch-swinnerton-dyer" Count="20" ExcerptPostId="156326" WikiPostId="156325" />
+  <row Id="1784" TagName="nets" Count="15" ExcerptPostId="141777" WikiPostId="141776" />
+  <row Id="1786" TagName="nilpotent-groups" Count="59" />
+  <row Id="1788" TagName="belyi" Count="5" />
+  <row Id="1789" TagName="branched-covers" Count="52" />
+  <row Id="1792" TagName="heat-equation" Count="156" />
+  <row Id="1794" TagName="multiplicative-number-theory" Count="18" />
+  <row Id="1806" TagName="semirings" Count="32" />
+  <row Id="1812" TagName="contact-geometry" Count="149" ExcerptPostId="137623" WikiPostId="137622" />
+  <row Id="1817" TagName="combinatorial-number-theory" Count="7" />
+  <row Id="1820" TagName="jets" Count="30" />
+  <row Id="1825" TagName="4-manifolds" Count="183" ExcerptPostId="137269" WikiPostId="137268" />
+  <row Id="1828" TagName="topological-manifolds" Count="25" />
+  <row Id="1837" TagName="pseudo-differential-operators" Count="138" />
+  <row Id="1838" TagName="database-theory" Count="4" ExcerptPostId="237072" WikiPostId="237071" />
+  <row Id="1842" TagName="sampling" Count="61" />
+  <row Id="1843" TagName="nonnegative-matrices" Count="76" />
+  <row Id="1845" TagName="ca.classical-analysis-and-odes" Count="2566" ExcerptPostId="134885" WikiPostId="134884" />
+  <row Id="1851" TagName="quandles" Count="16" />
+  <row Id="1853" TagName="grassmannians" Count="177" ExcerptPostId="232693" WikiPostId="232692" />
+  <row Id="1866" TagName="incompressible-surfaces" Count="9" />
+  <row Id="1869" TagName="constructible-sheaves" Count="44" />
+  <row Id="1879" TagName="stirling-numbers" Count="35" />
+  <row Id="1884" TagName="bernoulli-numbers" Count="33" ExcerptPostId="154823" WikiPostId="154822" />
+  <row Id="1885" TagName="riemann-zeta-function" Count="461" ExcerptPostId="154827" WikiPostId="154826" />
+  <row Id="1887" TagName="homogeneous-spaces" Count="154" />
+  <row Id="1892" TagName="smooth-structures" Count="19" />
+  <row Id="1895" TagName="free-probability" Count="34" />
+  <row Id="1900" TagName="elliptic-surfaces" Count="47" />
+  <row Id="1903" TagName="sandpile" Count="16" />
+  <row Id="1908" TagName="multiverse-of-sets" Count="15" />
+  <row Id="1919" TagName="closed-form-expressions" Count="122" ExcerptPostId="302107" WikiPostId="302106" />
+  <row Id="1922" TagName="nuclear-spaces" Count="25" />
+  <row Id="1923" TagName="thermodynamic-formalism" Count="16" ExcerptPostId="150023" WikiPostId="150022" />
+  <row Id="1946" TagName="pcf-theory" Count="22" />
+  <row Id="1960" TagName="lie-theory" Count="9" />
+  <row Id="1961" TagName="plethysm" Count="30" />
+  <row Id="1973" TagName="hausdorff-dimension" Count="70" ExcerptPostId="327139" WikiPostId="327138" />
+  <row Id="1979" TagName="nisnevich-topology" Count="9" />
+  <row Id="1985" TagName="relation-algebra" Count="9" ExcerptPostId="352877" WikiPostId="352876" />
+  <row Id="1987" TagName="equivariant-cohomology" Count="125" />
+  <row Id="1990" TagName="divided-powers" Count="5" />
+  <row Id="1991" TagName="orientation" Count="29" />
+  <row Id="1993" TagName="plethory" Count="3" />
+  <row Id="1995" TagName="computational-topology" Count="41" ExcerptPostId="230393" WikiPostId="230392" />
+  <row Id="2001" TagName="submersions" Count="13" />
+  <row Id="2002" TagName="internalization" Count="7" />
+  <row Id="2011" TagName="yoneda-lemma" Count="24" />
+  <row Id="2012" TagName="deligne-lusztig-theory" Count="13" />
+  <row Id="2013" TagName="space-filling-curves" Count="9" />
+  <row Id="2016" TagName="mathematical-writing" Count="148" />
+  <row Id="2017" TagName="topological-algebras" Count="15" />
+  <row Id="2019" TagName="derived-algebraic-geometry" Count="172" />
+  <row Id="2020" TagName="sumsets" Count="71" />
+  <row Id="2037" TagName="fibered-products" Count="9" />
+  <row Id="2045" TagName="laurent-polynomials" Count="11" />
+  <row Id="2047" TagName="monomial-ideals" Count="28" ExcerptPostId="151424" WikiPostId="151423" />
+  <row Id="2049" TagName="noncommutative-rings" Count="144" ExcerptPostId="145982" WikiPostId="145981" />
+  <row Id="2050" TagName="resolution-of-singularities" Count="174" />
+  <row Id="2055" TagName="constructibility" Count="53" ExcerptPostId="179067" WikiPostId="179066" />
+  <row Id="2064" TagName="flag-varieties" Count="114" />
+  <row Id="2065" TagName="numerical-linear-algebra" Count="212" ExcerptPostId="137278" WikiPostId="137277" />
+  <row Id="2066" TagName="matrix-equations" Count="141" ExcerptPostId="154897" WikiPostId="154896" />
+  <row Id="2070" TagName="convex-analysis" Count="350" />
+  <row Id="2077" TagName="tilting" Count="25" ExcerptPostId="141513" WikiPostId="141512" />
+  <row Id="2081" TagName="robinson-schensted-knuth" Count="16" />
+  <row Id="2096" TagName="free-groups" Count="157" />
+  <row Id="2100" TagName="combinatory-algebra" Count="3" />
+  <row Id="2102" TagName="kac-moody-algebras" Count="78" />
+  <row Id="2105" TagName="differential-cohomology" Count="5" ExcerptPostId="236716" WikiPostId="236715" />
+  <row Id="2120" TagName="word-problem" Count="8" />
+  <row Id="2127" TagName="positive-characteristic" Count="81" />
+  <row Id="2128" TagName="kazhdan-lusztig" Count="42" />
+  <row Id="2131" TagName="higher-algebra" Count="114" />
+  <row Id="2141" TagName="geometric-probability" Count="140" />
+  <row Id="2142" TagName="matrix-analysis" Count="557" ExcerptPostId="154895" WikiPostId="154894" />
+  <row Id="2147" TagName="smoothing-theory" Count="7" />
+  <row Id="2149" TagName="combinatorics-on-words" Count="81" ExcerptPostId="209254" WikiPostId="209253" />
+  <row Id="2157" TagName="symplectic-group" Count="38" />
+  <row Id="2159" TagName="triangles" Count="55" />
+  <row Id="2161" TagName="continuity" Count="121" />
+  <row Id="2166" TagName="elliptic-functions" Count="43" />
+  <row Id="2167" TagName="random-functions" Count="61" />
+  <row Id="2192" TagName="finite-geometry" Count="63" ExcerptPostId="229167" WikiPostId="229166" />
+  <row Id="2203" TagName="graph-polynomials" Count="2" ExcerptPostId="230233" WikiPostId="230232" />
+  <row Id="2205" TagName="random-permutations" Count="36" />
+  <row Id="2239" TagName="prime-ideals" Count="80" ExcerptPostId="160446" WikiPostId="160445" />
+  <row Id="2241" TagName="derham-cohomology" Count="71" ExcerptPostId="245430" WikiPostId="245429" />
+  <row Id="2242" TagName="combinatorial-topology" Count="14" />
+  <row Id="2244" TagName="loop-groups" Count="27" />
+  <row Id="2250" TagName="ordered-fields" Count="32" />
+  <row Id="2251" TagName="non-archimedean-fields" Count="68" />
+  <row Id="2252" TagName="wave-equation" Count="56" />
+  <row Id="2265" TagName="pushforward" Count="13" />
+  <row Id="2268" TagName="cumulants" Count="13" />
+  <row Id="2270" TagName="medicine" Count="8" />
+  <row Id="2281" TagName="measurable-functions" Count="36" />
+  <row Id="2282" TagName="preduals" Count="12" />
+  <row Id="2285" TagName="symmetric-polynomials" Count="76" />
+  <row Id="2288" TagName="integral-operators" Count="90" />
+  <row Id="2291" TagName="p-adic" Count="68" />
+  <row Id="2292" TagName="recurrences" Count="186" />
+  <row Id="2299" TagName="cardinal-arithmetic" Count="50" />
+  <row Id="2300" TagName="cofibrations" Count="11" ExcerptPostId="308313" WikiPostId="308312" />
+  <row Id="2304" TagName="products" Count="51" />
+  <row Id="2305" TagName="combinatorial-designs" Count="93" ExcerptPostId="230403" WikiPostId="230402" />
+  <row Id="2310" TagName="cerf-theory" Count="2" />
+  <row Id="2311" TagName="ample-bundles" Count="48" />
+  <row Id="2313" TagName="coherent-cohomology" Count="8" />
+  <row Id="2318" TagName="limits-and-convergence" Count="500" ExcerptPostId="226973" WikiPostId="226972" />
+  <row Id="2330" TagName="stone-cech-compactification" Count="57" />
+  <row Id="2349" TagName="triangulations" Count="75" />
+  <row Id="2353" TagName="heegaard-floer-homology" Count="38" ExcerptPostId="234607" WikiPostId="234606" />
+  <row Id="2354" TagName="algebraic-stacks" Count="203" />
+  <row Id="2360" TagName="brownian-motion" Count="270" />
+  <row Id="2361" TagName="mobius-inversion" Count="22" />
+  <row Id="2362" TagName="green-function" Count="57" />
+  <row Id="2369" TagName="curvature" Count="191" />
+  <row Id="2389" TagName="syzygies" Count="14" ExcerptPostId="236725" WikiPostId="236724" />
+  <row Id="2390" TagName="rational-curves" Count="27" />
+  <row Id="2394" TagName="nonnoetherian" Count="54" />
+  <row Id="2399" TagName="string-diagrams" Count="11" />
+  <row Id="2409" TagName="fano-varieties" Count="63" />
+  <row Id="2413" TagName="micro-local-analysis" Count="72" />
+  <row Id="2427" TagName="centralisers" Count="13" />
+  <row Id="2430" TagName="percolation" Count="72" />
+  <row Id="2433" TagName="oriented-matroids" Count="16" ExcerptPostId="230075" WikiPostId="230074" />
+  <row Id="2440" TagName="fuzziness" Count="5" />
+  <row Id="2461" TagName="several-complex-variables" Count="126" />
+  <row Id="2470" TagName="formality" Count="14" />
+  <row Id="2475" TagName="derived-functors" Count="107" />
+  <row Id="2477" TagName="f4" Count="3" />
+  <row Id="2479" TagName="adeles" Count="43" />
+  <row Id="2485" TagName="equitable-partition" Count="6" />
+  <row Id="2489" TagName="m-matrix" Count="8" />
+  <row Id="2490" TagName="schur-complement" Count="9" />
+  <row Id="2495" TagName="graph-cut" Count="5" />
+  <row Id="2506" TagName="matrix-theory" Count="354" ExcerptPostId="198565" WikiPostId="198564" />
+  <row Id="2508" TagName="extremal-combinatorics" Count="143" />
+  <row Id="2517" TagName="subgraph" Count="12" />
+  <row Id="2534" TagName="dieudonne" Count="8" />
+  <row Id="2537" TagName="parabolic-pde" Count="306" ExcerptPostId="134992" WikiPostId="134991" />
+  <row Id="2539" TagName="quantum-groups" Count="435" ExcerptPostId="151453" WikiPostId="151452" />
+  <row Id="2541" TagName="chromatic-homotopy" Count="40" />
+  <row Id="2551" TagName="perturbation-theory" Count="79" />
+  <row Id="2553" TagName="combinatorial-optimization" Count="288" ExcerptPostId="230311" WikiPostId="230310" />
+  <row Id="2554" TagName="maass-forms" Count="30" />
+  <row Id="2564" TagName="tutte-polynomial" Count="17" ExcerptPostId="156669" WikiPostId="156668" />
+  <row Id="2583" TagName="curves" Count="86" />
+  <row Id="2593" TagName="differential-forms" Count="68" ExcerptPostId="269635" WikiPostId="269634" />
+  <row Id="2599" TagName="fitting-ideals" Count="4" />
+  <row Id="2600" TagName="generalized-functions" Count="35" />
+  <row Id="2602" TagName="exponential-sums" Count="120" ExcerptPostId="150799" WikiPostId="150798" />
+  <row Id="2605" TagName="covering" Count="77" />
+  <row Id="2614" TagName="kahler-manifolds" Count="407" ExcerptPostId="145696" WikiPostId="145695" />
+  <row Id="2618" TagName="acyclic-orientations" Count="3" ExcerptPostId="269858" WikiPostId="269857" />
+  <row Id="2622" TagName="sat" Count="17" ExcerptPostId="278044" WikiPostId="278043" />
+  <row Id="2642" TagName="presentations-of-groups" Count="34" />
+  <row Id="2643" TagName="isoperimetric-problems" Count="77" />
+  <row Id="2646" TagName="polygons" Count="77" />
+  <row Id="2650" TagName="engineering-mathematics" Count="12" />
+  <row Id="2658" TagName="handle-decomposition" Count="19" />
+  <row Id="2659" TagName="stability" Count="112" ExcerptPostId="226990" WikiPostId="226989" />
+  <row Id="2661" TagName="non-positive-curvature" Count="22" />
+  <row Id="2666" TagName="q-identities" Count="12" />
+  <row Id="2670" TagName="ring-spectra" Count="70" ExcerptPostId="307737" WikiPostId="307736" />
+  <row Id="2677" TagName="algebraic-complexity" Count="12" />
+  <row Id="2685" TagName="isotropic-submanifolds" Count="3" />
+  <row Id="2690" TagName="computational-geometry" Count="358" ExcerptPostId="135005" WikiPostId="135004" />
+  <row Id="2699" TagName="flows" Count="71" />
+  <row Id="2709" TagName="automorphisms" Count="48" ExcerptPostId="262777" WikiPostId="262776" />
+  <row Id="2711" TagName="continuum-hypothesis" Count="66" ExcerptPostId="287920" WikiPostId="287919" />
+  <row Id="2714" TagName="matrix-inverse" Count="95" ExcerptPostId="159178" WikiPostId="159177" />
+  <row Id="2718" TagName="homotopy-groups-of-sphere" Count="22" />
+  <row Id="2731" TagName="linear-orders" Count="50" />
+  <row Id="2732" TagName="decidability" Count="107" />
+  <row Id="2744" TagName="sub-riemannian-geometry" Count="40" />
+  <row Id="2748" TagName="hamiltonian-mechanics" Count="71" />
+  <row Id="2750" TagName="brown-representability" Count="5" />
+  <row Id="2756" TagName="discriminant" Count="29" />
+  <row Id="2760" TagName="extension" Count="34" />
+  <row Id="2763" TagName="etale-covers" Count="68" />
+  <row Id="2766" TagName="projective-morphisms" Count="18" />
+  <row Id="2768" TagName="comodules" Count="9" />
+  <row Id="2771" TagName="inner-model-theory" Count="80" ExcerptPostId="144482" WikiPostId="144481" />
+  <row Id="2772" TagName="lattice-theory" Count="311" ExcerptPostId="215855" WikiPostId="215854" />
+  <row Id="2774" TagName="hadamard-product" Count="38" />
+  <row Id="2779" TagName="fourier-transform" Count="300" />
+  <row Id="2793" TagName="crossed-modules" Count="15" />
+  <row Id="2802" TagName="simplicial-categories" Count="47" />
+  <row Id="2806" TagName="nonlinear-eigenvalue" Count="13" />
+  <row Id="2809" TagName="serre-duality" Count="8" ExcerptPostId="236731" WikiPostId="236730" />
+  <row Id="2811" TagName="grothendieck-riemann-roch" Count="16" ExcerptPostId="236738" WikiPostId="236737" />
+  <row Id="2817" TagName="categorical-logic" Count="49" />
+  <row Id="2822" TagName="counterexamples" Count="182" ExcerptPostId="231029" WikiPostId="231028" />
+  <row Id="2824" TagName="convex-optimization" Count="620" ExcerptPostId="195460" WikiPostId="195459" />
+  <row Id="2825" TagName="nonlinear-optimization" Count="479" ExcerptPostId="156612" WikiPostId="156611" />
+  <row Id="2830" TagName="frobenius-schur-indicator" Count="9" />
+  <row Id="2850" TagName="expander-graphs" Count="43" ExcerptPostId="230235" WikiPostId="230234" />
+  <row Id="2851" TagName="spectral-gap" Count="5" />
+  <row Id="2853" TagName="enumerative-combinatorics" Count="281" />
+  <row Id="2861" TagName="paradox" Count="8" />
+  <row Id="2865" TagName="p-adic-hodge-theory" Count="141" />
+  <row Id="2866" TagName="conjugacy-classes" Count="29" />
+  <row Id="2886" TagName="degree-sequence" Count="12" />
+  <row Id="2887" TagName="eigenvalues" Count="562" />
+  <row Id="2893" TagName="tensor-products" Count="299" />
+  <row Id="2901" TagName="circle-packing" Count="33" />
+  <row Id="2906" TagName="directed-graphs" Count="74" ExcerptPostId="155505" WikiPostId="155504" />
+  <row Id="2925" TagName="definability" Count="27" ExcerptPostId="369591" WikiPostId="369590" />
+  <row Id="2928" TagName="cones" Count="47" />
+  <row Id="2929" TagName="covering-spaces" Count="83" />
+  <row Id="2945" TagName="sage" Count="34" ExcerptPostId="144395" WikiPostId="144394" />
+  <row Id="2951" TagName="simplicial-complexes" Count="185" />
+  <row Id="3975" TagName="hilbert-spaces" Count="505" ExcerptPostId="200797" WikiPostId="200796" />
+  <row Id="3978" TagName="graph-distance" Count="16" />
+  <row Id="3980" TagName="presentable-categories" Count="10" />
+  <row Id="3981" TagName="quiver-varieties" Count="14" ExcerptPostId="269410" WikiPostId="269409" />
+  <row Id="3983" TagName="reduction-graphs" Count="4" ExcerptPostId="236729" WikiPostId="236728" />
+  <row Id="3989" TagName="circulant-matrices" Count="19" />
+  <row Id="3996" TagName="schubert-calculus" Count="59" />
+  <row Id="4017" TagName="software" Count="19" />
+  <row Id="4031" TagName="trees" Count="161" ExcerptPostId="154805" WikiPostId="154804" />
+  <row Id="4035" TagName="octonions" Count="40" ExcerptPostId="235770" WikiPostId="235769" />
+  <row Id="4037" TagName="new-foundations" Count="31" ExcerptPostId="135587" WikiPostId="135586" />
+  <row Id="4046" TagName="sites" Count="28" ExcerptPostId="187143" WikiPostId="187142" />
+  <row Id="4053" TagName="conjectures" Count="157" ExcerptPostId="177980" WikiPostId="177979" />
+  <row Id="4060" TagName="determinantal-ideals" Count="9" />
+  <row Id="4061" TagName="primitive-elements" Count="8" />
+  <row Id="4066" TagName="hermitian" Count="37" />
+  <row Id="4069" TagName="graph-reconstruction" Count="15" ExcerptPostId="141610" WikiPostId="141609" />
+  <row Id="4079" TagName="lebesgue-measure" Count="121" />
+  <row Id="4082" TagName="hurwitz-theory" Count="11" />
+  <row Id="4085" TagName="gch" Count="16" ExcerptPostId="198654" WikiPostId="198653" />
+  <row Id="4089" TagName="hamiltonian-graphs" Count="66" ExcerptPostId="151205" WikiPostId="151204" />
+  <row Id="4090" TagName="blow-ups" Count="161" />
+  <row Id="4117" TagName="spanning-tree" Count="39" />
+  <row Id="4118" TagName="ultrafinitism" Count="17" />
+  <row Id="4128" TagName="sidon-sets" Count="15" />
+  <row Id="4129" TagName="cech-cohomology" Count="32" />
+  <row Id="4139" TagName="local-cohomology" Count="30" />
+  <row Id="4151" TagName="unitary-representations" Count="139" />
+  <row Id="4157" TagName="orthogonal-matrices" Count="65" ExcerptPostId="236671" WikiPostId="236670" />
+  <row Id="4166" TagName="group-homology" Count="10" />
+  <row Id="4181" TagName="selberg-class" Count="27" ExcerptPostId="134730" WikiPostId="134729" />
+  <row Id="4183" TagName="arithmetic-groups" Count="102" />
+  <row Id="4184" TagName="hyperbolic-pde" Count="140" ExcerptPostId="135572" WikiPostId="135571" />
+  <row Id="4188" TagName="inner-models" Count="30" ExcerptPostId="144503" WikiPostId="144502" />
+  <row Id="4189" TagName="infinitesimals" Count="10" />
+  <row Id="4203" TagName="maurer-cartan-equation" Count="7" />
+  <row Id="4207" TagName="pullback" Count="35" />
+  <row Id="4226" TagName="adjacency-matrices" Count="18" />
+  <row Id="4231" TagName="almost-periodic-function" Count="24" />
+  <row Id="4239" TagName="kodaira-dimension" Count="15" ExcerptPostId="308285" WikiPostId="308284" />
+  <row Id="4249" TagName="character-theory" Count="21" />
+  <row Id="4274" TagName="compactness" Count="98" />
+  <row Id="4283" TagName="torus" Count="21" />
+  <row Id="4298" TagName="peano-arithmetic" Count="205" ExcerptPostId="167372" WikiPostId="167371" />
+  <row Id="4311" TagName="non-associative-algebras" Count="31" ExcerptPostId="145349" WikiPostId="145348" />
+  <row Id="4333" TagName="hilbert-function" Count="24" ExcerptPostId="311202" WikiPostId="311201" />
+  <row Id="4354" TagName="transfinite-induction" Count="16" />
+  <row Id="4368" TagName="springer-fibres" Count="17" />
+  <row Id="4369" TagName="laplace-equation" Count="22" />
+  <row Id="4373" TagName="category-o" Count="18" ExcerptPostId="150639" WikiPostId="150638" />
+  <row Id="4397" TagName="analytic-functions" Count="97" />
+  <row Id="4400" TagName="bitcoins" Count="6" />
+  <row Id="4409" TagName="local-systems" Count="12" />
+  <row Id="4417" TagName="geometric-constructions" Count="27" />
+  <row Id="4418" TagName="permanent" Count="50" />
+  <row Id="4442" TagName="puiseux-series" Count="4" />
+  <row Id="4446" TagName="hahn-banach-theorem" Count="25" />
+  <row Id="4452" TagName="sudoku" Count="9" />
+  <row Id="4475" TagName="nonabelian-cohomology" Count="11" />
+  <row Id="4487" TagName="affine-geometry" Count="64" />
+  <row Id="4490" TagName="perfect-numbers" Count="67" ExcerptPostId="203262" WikiPostId="203261" />
+  <row Id="4491" TagName="visualization" Count="36" />
+  <row Id="4492" TagName="jacobian-conjecture" Count="26" />
+  <row Id="4509" TagName="simplicial-presheaves" Count="32" ExcerptPostId="236924" WikiPostId="236923" />
+  <row Id="4511" TagName="cauchy-schwarz-inequality" Count="26" ExcerptPostId="204631" WikiPostId="204630" />
+  <row Id="4529" TagName="kummer-theory" Count="12" />
+  <row Id="4534" TagName="kk-theory" Count="34" />
+  <row Id="4548" TagName="linear-regression" Count="26" />
+  <row Id="4553" TagName="semi-riemannian-geometry" Count="38" />
+  <row Id="4557" TagName="infinite-time-computability" Count="4" />
+  <row Id="4582" TagName="differential-calculus" Count="117" />
+  <row Id="4584" TagName="implicit-function-theorem" Count="29" />
+  <row Id="4607" TagName="homotopy-type-theory" Count="83" ExcerptPostId="136456" WikiPostId="136455" />
+  <row Id="4609" TagName="exact-categories" Count="10" />
+  <row Id="4616" TagName="transversality" Count="16" />
+  <row Id="4619" TagName="magmas" Count="13" ExcerptPostId="135584" WikiPostId="135583" />
+  <row Id="4620" TagName="optimal-transportation" Count="119" />
+  <row Id="4621" TagName="weierstrass-preparation" Count="6" />
+  <row Id="4628" TagName="obstruction-theory" Count="29" ExcerptPostId="138806" WikiPostId="138805" />
+  <row Id="4630" TagName="harmonic-functions" Count="129" ExcerptPostId="252110" WikiPostId="252109" />
+  <row Id="4631" TagName="heisenberg-groups" Count="29" />
+  <row Id="4632" TagName="stratifications" Count="28" />
+  <row Id="4634" TagName="semidefinite-programming" Count="64" ExcerptPostId="230385" WikiPostId="230384" />
+  <row Id="4636" TagName="characteristic-2" Count="11" />
+  <row Id="4644" TagName="growth-rate" Count="31" />
+  <row Id="4646" TagName="hyperelliptic-curves" Count="59" />
+  <row Id="4649" TagName="isometric-immersion" Count="14" />
+  <row Id="4653" TagName="partial-hyperbolicity" Count="4" />
+  <row Id="4655" TagName="contraction-mapping" Count="17" />
+  <row Id="4658" TagName="supramenability" Count="5" />
+  <row Id="4660" TagName="algorithmic-randomness" Count="33" ExcerptPostId="146172" WikiPostId="146171" />
+  <row Id="4662" TagName="trigonometric-polynomials" Count="39" />
+  <row Id="4668" TagName="supercuspidal-representations" Count="8" />
+  <row Id="4670" TagName="elementary-proofs" Count="132" ExcerptPostId="143210" WikiPostId="143209" />
+  <row Id="4675" TagName="strongly-regular-graph" Count="6" ExcerptPostId="154810" WikiPostId="154809" />
+  <row Id="4678" TagName="metric-embeddings" Count="37" />
+  <row Id="4679" TagName="coarse-geometry" Count="16" />
+  <row Id="4681" TagName="irrational-numbers" Count="76" ExcerptPostId="230678" WikiPostId="230677" />
+  <row Id="4684" TagName="bounded-arithmetic" Count="22" />
+  <row Id="4688" TagName="algebraic-dynamics" Count="8" />
+  <row Id="4690" TagName="icm-2014" Count="3" ExcerptPostId="156560" WikiPostId="156559" />
+  <row Id="4693" TagName="spherical-varieties" Count="26" />
+  <row Id="4698" TagName="cyclotomic-fields" Count="58" ExcerptPostId="236669" WikiPostId="236668" />
+  <row Id="4701" TagName="limit-theorems" Count="69" ExcerptPostId="146032" WikiPostId="146031" />
+  <row Id="4703" TagName="geometric-quantization" Count="16" />
+  <row Id="4712" TagName="coherence" Count="13" />
+  <row Id="4715" TagName="negative-curvature" Count="14" />
+  <row Id="4717" TagName="property-t" Count="9" />
+  <row Id="4720" TagName="j-invariant" Count="13" />
+  <row Id="4723" TagName="bessel-functions" Count="96" />
+  <row Id="4724" TagName="convolution" Count="90" />
+  <row Id="4727" TagName="trigonometric-sums" Count="55" />
+  <row Id="4741" TagName="nilpotent-orbits" Count="20" ExcerptPostId="152766" WikiPostId="152765" />
+  <row Id="4747" TagName="divisors-multiples" Count="157" ExcerptPostId="154956" WikiPostId="154955" />
+  <row Id="4748" TagName="homotopy-limits" Count="13" />
+  <row Id="4761" TagName="admissible-representation" Count="10" />
+  <row Id="4769" TagName="euler-product" Count="31" />
+  <row Id="4773" TagName="graph-domination" Count="8" ExcerptPostId="230308" WikiPostId="230307" />
+  <row Id="4775" TagName="quadratic-programming" Count="49" ExcerptPostId="325077" WikiPostId="325076" />
+  <row Id="4777" TagName="limit-cycles" Count="39" />
+  <row Id="4782" TagName="isomorphism-testing" Count="57" ExcerptPostId="230759" WikiPostId="230758" />
+  <row Id="4789" TagName="mixing" Count="20" />
+  <row Id="4794" TagName="real-analytic-structures" Count="43" />
+  <row Id="4796" TagName="2-categories" Count="64" />
+  <row Id="4800" TagName="inverse-problems" Count="61" ExcerptPostId="162811" WikiPostId="162810" />
+  <row Id="4801" TagName="graded-banach-algebras" Count="2" />
+  <row Id="4805" TagName="prime-constellations" Count="34" ExcerptPostId="164251" WikiPostId="164250" />
+  <row Id="4816" TagName="reflection-groups" Count="30" />
+  <row Id="4824" TagName="hamiltonian-paths" Count="30" />
+  <row Id="4829" TagName="embeddings" Count="88" />
+  <row Id="4830" TagName="hypercube" Count="29" ExcerptPostId="191674" WikiPostId="191673" />
+  <row Id="4831" TagName="binary-tree" Count="12" />
+  <row Id="4832" TagName="bijective-combinatorics" Count="23" />
+  <row Id="4834" TagName="parameterized-homotopy" Count="11" />
+  <row Id="4849" TagName="krull-dimension" Count="35" />
+  <row Id="4855" TagName="integral-quadratic-forms" Count="9" />
+  <row Id="4856" TagName="orthogonal-groups" Count="39" />
+  <row Id="4860" TagName="diophantine-geometry" Count="35" />
+  <row Id="4886" TagName="interpolation-spaces" Count="45" />
+  <row Id="4887" TagName="circle-method" Count="20" />
+  <row Id="4895" TagName="hecke-operators" Count="28" />
+  <row Id="4897" TagName="geodesics" Count="122" />
+  <row Id="4904" TagName="discrete-morse-theory" Count="12" ExcerptPostId="181028" WikiPostId="181027" />
+  <row Id="4909" TagName="theta-series" Count="23" />
+  <row Id="4924" TagName="semicontinuity" Count="29" />
+  <row Id="4927" TagName="origami-folding" Count="6" ExcerptPostId="183099" WikiPostId="183098" />
+  <row Id="4929" TagName="choquet-theory" Count="10" />
+  <row Id="4930" TagName="intuitionism" Count="34" />
+  <row Id="4931" TagName="sturm-liouville-theory" Count="50" />
+  <row Id="4933" TagName="normal-subgroups" Count="30" />
+  <row Id="4934" TagName="fine-structure" Count="5" />
+  <row Id="4936" TagName="simple-homotopy-theory" Count="4" />
+  <row Id="4942" TagName="stochastic-differential-equations" Count="351" ExcerptPostId="193746" WikiPostId="193745" />
+  <row Id="4943" TagName="ordinal-computability" Count="11" />
+  <row Id="4945" TagName="hodge-structure" Count="37" />
+  <row Id="4946" TagName="online-resources" Count="62" ExcerptPostId="217502" WikiPostId="217501" />
+  <row Id="4952" TagName="nash-equilibrium" Count="13" />
+  <row Id="4957" TagName="lyndon-words" Count="6" />
+  <row Id="4968" TagName="hypersurfaces" Count="21" />
+  <row Id="4973" TagName="hankel-matrices" Count="23" ExcerptPostId="228860" WikiPostId="228859" />
+  <row Id="4974" TagName="leibniz-algebras" Count="10" />
+  <row Id="4979" TagName="powerful-numbers" Count="4" />
+  <row Id="4981" TagName="set-valued-analysis" Count="14" ExcerptPostId="372661" WikiPostId="372660" />
+  <row Id="4999" TagName="periods" Count="24" ExcerptPostId="194755" WikiPostId="194754" />
+  <row Id="5005" TagName="p-laplace" Count="22" ExcerptPostId="195474" WikiPostId="195473" />
+  <row Id="5007" TagName="legendre-polynomials" Count="38" />
+  <row Id="5032" TagName="half-integral-weight" Count="26" ExcerptPostId="199707" WikiPostId="199706" />
+  <row Id="5046" TagName="tauberian-theorems" Count="13" />
+  <row Id="5049" TagName="preprojective-algebra" Count="8" />
+  <row Id="5050" TagName="wild-representation-type" Count="8" />
+  <row Id="5058" TagName="lorentzian-geometry" Count="48" ExcerptPostId="236740" WikiPostId="236739" />
+  <row Id="5072" TagName="kan-extension" Count="26" />
+  <row Id="5077" TagName="poly-gamma-function" Count="9" ExcerptPostId="236964" WikiPostId="236963" />
+  <row Id="5084" TagName="rough-paths" Count="24" ExcerptPostId="208789" WikiPostId="208788" />
+  <row Id="5088" TagName="hypergroups" Count="9" />
+  <row Id="5092" TagName="besov-spaces" Count="27" />
+  <row Id="5095" TagName="ideals" Count="96" />
+  <row Id="5099" TagName="unimodality" Count="5" />
+  <row Id="5101" TagName="topological-dynamics" Count="28" ExcerptPostId="236742" WikiPostId="236741" />
+  <row Id="5107" TagName="logarithmic-energy" Count="5" />
+  <row Id="5117" TagName="graded-rings-modules" Count="48" />
+  <row Id="5122" TagName="moments" Count="67" />
+  <row Id="5133" TagName="finite-element-method" Count="21" ExcerptPostId="214441" WikiPostId="214440" />
+  <row Id="5135" TagName="numerical-analysis-of-pde" Count="67" />
+  <row Id="5137" TagName="probabilistic-method" Count="16" ExcerptPostId="266540" WikiPostId="266539" />
+  <row Id="5142" TagName="information-geometry" Count="36" ExcerptPostId="236718" WikiPostId="236717" />
+  <row Id="5145" TagName="infinite-divisibility" Count="13" />
+  <row Id="5147" TagName="levy-processes" Count="32" ExcerptPostId="343391" WikiPostId="343390" />
+  <row Id="5151" TagName="pseudo-holomorphic-curves" Count="32" />
+  <row Id="5152" TagName="learning-roadmap" Count="12" />
+  <row Id="5154" TagName="pythagorean-triples" Count="15" />
+  <row Id="5158" TagName="equidistribution" Count="24" />
+  <row Id="5159" TagName="chevalley-groups" Count="26" ExcerptPostId="236735" WikiPostId="236734" />
+  <row Id="5171" TagName="large-deviations" Count="44" />
+  <row Id="5173" TagName="quaternion-algebras" Count="26" />
+  <row Id="5174" TagName="self-similarity" Count="11" />
+  <row Id="5176" TagName="inverse-series" Count="5" />
+  <row Id="5181" TagName="bousfield-localization" Count="31" />
+  <row Id="5188" TagName="least-squares" Count="25" />
+  <row Id="5189" TagName="unitary-fusion-category" Count="21" ExcerptPostId="225747" WikiPostId="225746" />
+  <row Id="5192" TagName="kneser-graph" Count="7" ExcerptPostId="225940" WikiPostId="225939" />
+  <row Id="5194" TagName="selection-principles" Count="32" />
+  <row Id="5195" TagName="limits-and-colimits" Count="229" ExcerptPostId="226603" WikiPostId="226602" />
+  <row Id="5209" TagName="synthetic-differential" Count="25" ExcerptPostId="227738" WikiPostId="227737" />
+  <row Id="5232" TagName="cartan-geometry" Count="17" ExcerptPostId="229572" WikiPostId="229571" />
+  <row Id="5239" TagName="cyclic-groups" Count="15" ExcerptPostId="326615" WikiPostId="326614" />
+  <row Id="5240" TagName="cyclic-orders" Count="4" />
+  <row Id="5242" TagName="sheets" Count="2" />
+  <row Id="5249" TagName="kahler-ricci-flow" Count="8" ExcerptPostId="231205" WikiPostId="231204" />
+  <row Id="5251" TagName="weil-petersson-metric" Count="5" ExcerptPostId="231219" WikiPostId="231218" />
+  <row Id="5252" TagName="coadjoint-orbit" Count="5" ExcerptPostId="231226" WikiPostId="231225" />
+  <row Id="5256" TagName="functional-calculus" Count="30" />
+  <row Id="5258" TagName="kahler-einstein-metric" Count="26" ExcerptPostId="231569" WikiPostId="231568" />
+  <row Id="5260" TagName="isogenies" Count="12" />
+  <row Id="5261" TagName="whitehead-product" Count="3" ExcerptPostId="245436" WikiPostId="245435" />
+  <row Id="5267" TagName="isospectrality" Count="28" />
+  <row Id="5269" TagName="nori-motives" Count="3" />
+  <row Id="5274" TagName="julia-set" Count="7" />
+  <row Id="5276" TagName="cauchy-problem" Count="19" />
+  <row Id="5279" TagName="sasakian-geometry" Count="4" ExcerptPostId="233739" WikiPostId="233738" />
+  <row Id="5284" TagName="banach-tarski" Count="5" />
+  <row Id="5289" TagName="prym-varieties" Count="5" ExcerptPostId="247611" WikiPostId="247610" />
+  <row Id="5298" TagName="numerical-integration" Count="33" />
+  <row Id="5299" TagName="specific-calculation" Count="17" ExcerptPostId="236756" WikiPostId="236755" />
+  <row Id="5301" TagName="projective-varieties" Count="66" ExcerptPostId="236447" WikiPostId="236446" />
+  <row Id="5302" TagName="yang-baxter-equations" Count="12" ExcerptPostId="236479" WikiPostId="236478" />
+  <row Id="5303" TagName="hermitian-manifolds" Count="9" ExcerptPostId="236555" WikiPostId="236554" />
+  <row Id="5304" TagName="k-stability" Count="1" ExcerptPostId="236646" WikiPostId="236645" />
+  <row Id="5306" TagName="pfaffian" Count="13" ExcerptPostId="236749" WikiPostId="236748" />
+  <row Id="5310" TagName="hermite-polynomials" Count="13" />
+  <row Id="5314" TagName="zeroes" Count="28" />
+  <row Id="5318" TagName="virtual-motives" Count="5" />
+  <row Id="5319" TagName="tate-motives" Count="3" />
+  <row Id="5324" TagName="navier-stokes" Count="32" />
+  <row Id="5329" TagName="noncompact" Count="6" />
+  <row Id="5342" TagName="minimal-surfaces" Count="49" ExcerptPostId="331794" WikiPostId="331793" />
+  <row Id="5352" TagName="lelong-number" Count="2" ExcerptPostId="247589" WikiPostId="247588" />
+  <row Id="5356" TagName="dirac-operator" Count="24" />
+  <row Id="5357" TagName="association-schemes" Count="6" />
+  <row Id="5359" TagName="gap" Count="50" ExcerptPostId="248954" WikiPostId="248953" />
+  <row Id="5361" TagName="baer-rings" Count="18" />
+  <row Id="5364" TagName="meromorphic-functions" Count="8" />
+  <row Id="5371" TagName="stiefel-whitney" Count="20" ExcerptPostId="308210" WikiPostId="308209" />
+  <row Id="5372" TagName="nichols-algebras" Count="4" ExcerptPostId="270087" WikiPostId="270086" />
+  <row Id="5374" TagName="wiener-measure" Count="17" />
+  <row Id="5378" TagName="hausdorff-measure" Count="30" ExcerptPostId="327141" WikiPostId="327140" />
+  <row Id="5379" TagName="homeomorphism" Count="20" />
+  <row Id="5381" TagName="condensed-matter" Count="12" ExcerptPostId="256986" WikiPostId="256985" />
+  <row Id="5382" TagName="laguerre" Count="7" />
+  <row Id="5384" TagName="linear-extensions" Count="2" ExcerptPostId="251775" WikiPostId="251774" />
+  <row Id="5395" TagName="planar-partitions" Count="8" />
+  <row Id="5397" TagName="affine-hecke-algebras" Count="5" />
+  <row Id="5401" TagName="ramanujan" Count="34" />
+  <row Id="5403" TagName="analysis-and-odes" Count="5" />
+  <row Id="5404" TagName="time-series" Count="13" ExcerptPostId="263288" WikiPostId="263287" />
+  <row Id="5405" TagName="orlicz-spaces" Count="14" />
+  <row Id="5407" TagName="knot-link" Count="17" />
+  <row Id="5412" TagName="protomodular-categories" Count="4" />
+  <row Id="5413" TagName="bialgebras" Count="8" />
+  <row Id="5414" TagName="planar-graphs" Count="36" />
+  <row Id="5423" TagName="matrix-exponential" Count="23" ExcerptPostId="256617" WikiPostId="256616" />
+  <row Id="5425" TagName="torsors" Count="25" />
+  <row Id="5427" TagName="hidden-markov-models" Count="11" />
+  <row Id="5429" TagName="smith-normal-form" Count="11" />
+  <row Id="5430" TagName="spinor" Count="14" ExcerptPostId="257893" WikiPostId="257892" />
+  <row Id="5432" TagName="non-convex-optimization" Count="41" />
+  <row Id="5439" TagName="matrix-completion" Count="7" />
+  <row Id="5442" TagName="infinitary-sentences" Count="3" />
+  <row Id="5446" TagName="homogenization" Count="5" />
+  <row Id="5448" TagName="total-unimodularity" Count="10" />
+  <row Id="5449" TagName="kirby-calculus" Count="16" ExcerptPostId="261772" WikiPostId="261771" />
+  <row Id="5458" TagName="convex-hulls" Count="33" ExcerptPostId="366324" WikiPostId="366323" />
+  <row Id="5460" TagName="factorization-theory" Count="23" />
+  <row Id="5462" TagName="block-matrices" Count="49" />
+  <row Id="5466" TagName="h-principle" Count="14" />
+  <row Id="5469" TagName="derivations" Count="43" />
+  <row Id="5472" TagName="multinomial-coefficients" Count="11" ExcerptPostId="264864" WikiPostId="264863" />
+  <row Id="5473" TagName="brill-noether" Count="6" />
+  <row Id="5474" TagName="topological-rings" Count="7" ExcerptPostId="265096" WikiPostId="265095" />
+  <row Id="5475" TagName="flat-cohomology" Count="11" />
+  <row Id="5488" TagName="casimir" Count="3" />
+  <row Id="5490" TagName="finsler" Count="17" ExcerptPostId="269861" WikiPostId="269860" />
+  <row Id="5492" TagName="spectral-radius" Count="29" ExcerptPostId="268006" WikiPostId="268005" />
+  <row Id="5498" TagName="mean-value-theorem" Count="6" />
+  <row Id="5505" TagName="yang-mills-theory" Count="8" />
+  <row Id="5506" TagName="poker" Count="3" />
+  <row Id="5512" TagName="tridiagonal-matrices" Count="19" ExcerptPostId="270929" WikiPostId="270928" />
+  <row Id="5514" TagName="research" Count="34" />
+  <row Id="5518" TagName="fewnomial" Count="3" />
+  <row Id="5520" TagName="noetherian" Count="24" />
+  <row Id="5521" TagName="stochastic-filtering" Count="13" ExcerptPostId="280547" WikiPostId="280546" />
+  <row Id="5527" TagName="machine-learning" Count="99" />
+  <row Id="5531" TagName="banach-lattices" Count="21" ExcerptPostId="362654" WikiPostId="362653" />
+  <row Id="5538" TagName="mixed-hodge-structure" Count="16" />
+  <row Id="5541" TagName="traveling-salesman-problem" Count="11" />
+  <row Id="5542" TagName="celestial-mechanics" Count="3" ExcerptPostId="282142" WikiPostId="282141" />
+  <row Id="5544" TagName="sporadic-groups" Count="19" ExcerptPostId="279233" WikiPostId="279232" />
+  <row Id="5547" TagName="semiabelian-categories" Count="2" ExcerptPostId="282123" WikiPostId="282122" />
+  <row Id="5548" TagName="discrete-dynamical-systems" Count="39" />
+  <row Id="5549" TagName="field-extensions" Count="17" />
+  <row Id="5553" TagName="differential-graded-algebras" Count="169" />
+  <row Id="5556" TagName="uniqueness-theorems" Count="13" />
+  <row Id="5562" TagName="l-adic-sheaves" Count="10" />
+  <row Id="5563" TagName="singular-support" Count="11" />
+  <row Id="5567" TagName="hyperkaehler" Count="21" />
+  <row Id="5571" TagName="quadratic-variation" Count="8" />
+  <row Id="5574" TagName="network-theory" Count="11" />
+  <row Id="5577" TagName="character-sums" Count="5" />
+  <row Id="5580" TagName="infinitary-logic" Count="6" />
+  <row Id="5581" TagName="lattice-polytopes" Count="15" />
+  <row Id="5584" TagName="valuation-rings" Count="18" />
+  <row Id="5587" TagName="paper-request" Count="41" ExcerptPostId="285613" WikiPostId="285612" />
+  <row Id="5589" TagName="drinfeld-center" Count="12" ExcerptPostId="285732" WikiPostId="285731" />
+  <row Id="5592" TagName="qcqp" Count="13" ExcerptPostId="285864" WikiPostId="285863" />
+  <row Id="5600" TagName="semialgebraic-geometry" Count="24" ExcerptPostId="287477" WikiPostId="287476" />
+  <row Id="5609" TagName="locally-presentable-categories" Count="44" />
+  <row Id="5612" TagName="hadwiger-conjecture" Count="4" />
+  <row Id="5617" TagName="stochastic-matrices" Count="29" ExcerptPostId="291691" WikiPostId="291690" />
+  <row Id="5618" TagName="biography" Count="5" />
+  <row Id="5619" TagName="linear-matrix-inequalities" Count="14" ExcerptPostId="291996" WikiPostId="291995" />
+  <row Id="5627" TagName="linear-independence" Count="3" />
+  <row Id="5629" TagName="mereology" Count="5" ExcerptPostId="295235" WikiPostId="295234" />
+  <row Id="5633" TagName="cayley-graphs" Count="36" ExcerptPostId="295507" WikiPostId="295506" />
+  <row Id="5639" TagName="special-graphs" Count="5" ExcerptPostId="296592" WikiPostId="296591" />
+  <row Id="5651" TagName="infinite-games" Count="41" ExcerptPostId="299506" WikiPostId="299505" />
+  <row Id="5653" TagName="prime-gaps" Count="32" />
+  <row Id="5656" TagName="topological-modular-form" Count="1" ExcerptPostId="300015" WikiPostId="300014" />
+  <row Id="5659" TagName="periodic-orbit" Count="7" />
+  <row Id="5665" TagName="character-sheaves" Count="3" />
+  <row Id="5666" TagName="closed-geodesic" Count="9" />
+  <row Id="5669" TagName="moyal-product" Count="4" />
+  <row Id="5670" TagName="hessian" Count="6" />
+  <row Id="5671" TagName="seifert-surfaces" Count="18" ExcerptPostId="302769" WikiPostId="302768" />
+  <row Id="5672" TagName="majorization" Count="8" />
+  <row Id="5676" TagName="expectation" Count="61" />
+  <row Id="5680" TagName="limsup-and-liminf" Count="6" ExcerptPostId="319808" WikiPostId="319807" />
+  <row Id="5683" TagName="alexander-polynomial" Count="7" />
+  <row Id="5685" TagName="multisymmetric-functions" Count="4" />
+  <row Id="5689" TagName="conic-bundles" Count="3" />
+  <row Id="5690" TagName="zariski-topology" Count="15" />
+  <row Id="5694" TagName="regularity-structures" Count="6" />
+  <row Id="5698" TagName="icm-2018" Count="2" ExcerptPostId="307540" WikiPostId="307539" />
+  <row Id="5699" TagName="tensor-calculus" Count="8" />
+  <row Id="5700" TagName="eta-invariant" Count="3" />
+  <row Id="5705" TagName="isometry-groups" Count="5" ExcerptPostId="348213" WikiPostId="348212" />
+  <row Id="5706" TagName="continuum-theory" Count="22" ExcerptPostId="308280" WikiPostId="308279" />
+  <row Id="5709" TagName="differentiable-stacks" Count="18" />
+  <row Id="5712" TagName="ricci-curvature" Count="10" />
+  <row Id="5713" TagName="cluster-analysis" Count="4" />
+  <row Id="5714" TagName="quotient-space" Count="10" ExcerptPostId="313607" WikiPostId="313606" />
+  <row Id="5715" TagName="homflypt-polynomial" Count="4" />
+  <row Id="5716" TagName="jones-polynomial" Count="8" />
+  <row Id="5717" TagName="conservation-laws" Count="15" />
+  <row Id="5719" TagName="lax-pairs" Count="5" />
+  <row Id="5723" TagName="extreme-points" Count="7" />
+  <row Id="5731" TagName="solid-state-physics" Count="2" ExcerptPostId="313329" WikiPostId="313328" />
+  <row Id="5732" TagName="combinatorial-proofs" Count="3" ExcerptPostId="317254" WikiPostId="317253" />
+  <row Id="5739" TagName="generalized-jacobians" Count="3" />
+  <row Id="5740" TagName="modular-curves" Count="13" />
+  <row Id="5742" TagName="path-integral" Count="4" ExcerptPostId="315998" WikiPostId="315997" />
+  <row Id="5744" TagName="gravity-theory" Count="5" ExcerptPostId="316517" WikiPostId="316516" />
+  <row Id="5745" TagName="singular-values" Count="24" />
+  <row Id="5746" TagName="0-1-matrices" Count="2" ExcerptPostId="316961" WikiPostId="316960" />
+  <row Id="5747" TagName="rootfinding" Count="18" ExcerptPostId="319124" WikiPostId="319123" />
+  <row Id="5748" TagName="recursively-enumerable" Count="6" ExcerptPostId="320131" WikiPostId="320130" />
+  <row Id="5749" TagName="hamming-distance" Count="7" />
+  <row Id="5750" TagName="colorings" Count="5" />
+  <row Id="5751" TagName="comparison-geometry" Count="3" />
+  <row Id="5754" TagName="castelnuovo-mumford-regularity" Count="3" />
+  <row Id="5755" TagName="self-distributivity" Count="35" />
+  <row Id="5758" TagName="hilbert-modules" Count="2" />
+  <row Id="5759" TagName="rubiks-cube" Count="3" />
+  <row Id="5774" TagName="snappy" Count="3" />
+  <row Id="5782" TagName="cardinal-characteristics" Count="41" ExcerptPostId="337468" WikiPostId="337467" />
+  <row Id="5786" TagName="polymath16" Count="6" ExcerptPostId="337064" WikiPostId="337063" />
+  <row Id="5787" TagName="domain-theory" Count="2" />
+  <row Id="5791" TagName="complex-networks" Count="3" />
+  <row Id="5795" TagName="mathematical-biology" Count="26" />
+  <row Id="5796" TagName="zonotopes" Count="3" />
+  <row Id="5797" TagName="perfectoid-spaces" Count="10" />
+  <row Id="5799" TagName="q-series" Count="3" />
+  <row Id="5800" TagName="complex-analytic-spaces" Count="5" />
+  <row Id="5802" TagName="divergent-integrals" Count="6" />
+  <row Id="5805" TagName="ethics" Count="2" />
+  <row Id="5806" TagName="numerical-systems" Count="3" ExcerptPostId="345608" WikiPostId="345607" />
+  <row Id="5807" TagName="multivariable-calculus" Count="18" />
+  <row Id="5817" TagName="total-positivity" Count="19" ExcerptPostId="347705" WikiPostId="347704" />
+  <row Id="5819" TagName="automatic-continuity" Count="2" />
+  <row Id="5821" TagName="neron-severi-group" Count="3" />
+  <row Id="5830" TagName="kolmogorov-complexity" Count="9" />
+  <row Id="5831" TagName="turing-machines" Count="2" />
+  <row Id="5833" TagName="fredholm-operators" Count="8" />
+  <row Id="5834" TagName="quasi-isomorphism" Count="2" />
+  <row Id="5838" TagName="stochastic-approximation" Count="4" />
+  <row Id="5839" TagName="scissors-congruence" Count="10" ExcerptPostId="351733" WikiPostId="351732" />
+  <row Id="5840" TagName="ordered-groups" Count="64" ExcerptPostId="351190" WikiPostId="351189" />
+  <row Id="5846" TagName="errata" Count="3" />
+  <row Id="5847" TagName="semigroups-of-operators" Count="123" ExcerptPostId="351737" WikiPostId="351736" />
+  <row Id="5848" TagName="diffeology" Count="4" />
+  <row Id="5849" TagName="symplectic-resolutions" Count="3" />
+  <row Id="5850" TagName="zbmath" Count="5" ExcerptPostId="352215" WikiPostId="352214" />
+  <row Id="5851" TagName="operations-research" Count="8" ExcerptPostId="352220" WikiPostId="352219" />
+  <row Id="5852" TagName="genericity" Count="1" ExcerptPostId="352848" WikiPostId="352847" />
+  <row Id="5859" TagName="contact-topology" Count="2" />
+  <row Id="5861" TagName="modular-lie-algebras" Count="19" ExcerptPostId="353262" WikiPostId="353261" />
+  <row Id="5867" TagName="splines" Count="29" ExcerptPostId="354550" WikiPostId="354549" />
+  <row Id="5870" TagName="epidemics-modeling" Count="15" />
+  <row Id="5874" TagName="condensed-mathematics" Count="4" ExcerptPostId="356350" WikiPostId="356349" />
+  <row Id="5877" TagName="brunnian-links" Count="2" />
+  <row Id="5878" TagName="azumaya-algebras" Count="5" ExcerptPostId="356620" WikiPostId="356619" />
+  <row Id="5884" TagName="differential-game-theory" Count="1" ExcerptPostId="357898" WikiPostId="357897" />
+  <row Id="5890" TagName="gradient-flows" Count="14" />
+  <row Id="5891" TagName="algebraic-systems" Count="23" ExcerptPostId="359050" WikiPostId="359049" />
+  <row Id="5896" TagName="persistent-homology" Count="18" />
+  <row Id="5899" TagName="viscosity-solutions" Count="12" />
+  <row Id="5900" TagName="liouville-vector-field" Count="1" />
+  <row Id="5904" TagName="variational-inequalities" Count="4" />
+  <row Id="5905" TagName="mandelbrot-set" Count="2" />
+  <row Id="5909" TagName="submodular-functions" Count="1" />
+  <row Id="5912" TagName="exact-couples" Count="1" />
+  <row Id="5914" TagName="p-divisible-group-schemes" Count="4" />
+  <row Id="5918" TagName="diameter" Count="1" />
+  <row Id="5919" TagName="regular-graph" Count="4" />
+  <row Id="5920" TagName="random-regular-graphs" Count="1" />
+  <row Id="5922" TagName="prandtl-equation" Count="1" />
+  <row Id="5925" TagName="umbral-calculus" Count="2" />
+  <row Id="5931" TagName="icm-2022" Count="1" />
+  <row Id="5936" TagName="tempered-distributions" Count="4" />
+  <row Id="5938" TagName="dieudonne-modules" Count="1" />
+  <row Id="5941" TagName="differential-inequalities" Count="1" ExcerptPostId="369934" WikiPostId="369933" />
+  <row Id="5943" TagName="discretization-and-quantization" Count="3" ExcerptPostId="372561" WikiPostId="372560" />
+  <row Id="5944" TagName="singular-integral-equations" Count="1" />
+  <row Id="5946" TagName="theories-of-arithmetic" Count="16" ExcerptPostId="374020" WikiPostId="374019" />
+  <row Id="5949" TagName="legendrian-submanifolds" Count="1" />
+  <row Id="5951" TagName="quasifields" Count="1" />
+  <row Id="5952" TagName="talks" Count="1" />
+  <row Id="5955" TagName="conformal-maps" Count="9" ExcerptPostId="376592" WikiPostId="376591" />
+  <row Id="5964" TagName="fibonacci-numbers" Count="1" />
+  <row Id="5965" TagName="recursive-enumerability-above" Count="1" ExcerptPostId="377564" WikiPostId="377563" />
+</tags>
