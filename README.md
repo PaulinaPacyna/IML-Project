@@ -25,10 +25,9 @@ Once the execution is done, the project will have the following structure :
 │   │	└──...
 │   └──...
 └── src
-├── Article.py
-├── PdfConverter.py
+├── pdf_converter.py
 ├── date_formatter.py
-├── preprocessing.py
+├── lemmatizer.py
 └── scraper.py
 ```
 
@@ -36,7 +35,7 @@ Execution details :
 
 * The **data** directory will be created when the **scraper.py** script is executed, the pdfs will not be sorted at this stage.
 * Once the scraper is done, we run the **date_formatter.py** script, which will inspect the metadata of each pdf, fetch the creationDate tag and reorganise them as seen in the above dir tree.
-* Now we clean the data by running **preprocessing.py**, which will remove special characters, remove numbers, lemmatize, remove stop words (in order) for every pdf file and save it as a text file (perserving it's date specified in the dir tree)
+* Now we clean the data by running **lemmatizer.py**, which will remove special characters, remove numbers, lemmatize, remove stop words (in order) for every pdf file and save it as a text file (perserving it's date specified in the dir tree)
 
 
 [UPDATED] Link to clean data : https://drive.google.com/file/d/1pBihRBnGs6VlFalr4BuxMwXw5xL5ZjY6/view?usp=sharing (367 MB zipped) | (1.22 GB decompressed)

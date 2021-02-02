@@ -10,15 +10,36 @@ import random
 
 
 class scraper:
-    def __init__(self, start_date: str, end_date: str, resume: bool):
+    """
+    This class is responsible for scraping all the dataset,
+    the script was running for weeks to scrape the resulting
+    dataset
 
+    Target website          : http://export.arxiv.org/
+    Delay between requests  : 1s
+    Data dumped in          : ../data
+    Logger                  : scraper.log
+    Variables               : vars.pkl
+    """
+
+    def __init__(self, start_date: str, end_date: str, resume: bool):
+        """
+        start_date : which year to start with
+        end_year   : which year to end with
+        resume     : use variables saved in pkl and resume
+                     from that point
+        """
+
+        # Initialising variables
         self.year_index = start_date
         self.month_index = 1
         self.pdf_count = 0
 
+        # Creating a folder to hold all the data
         if not isdir("../data"):
             mkdir("../data")
 
+        # Attaching logger
         self.attach_logger()
 
         if resume:
@@ -27,6 +48,8 @@ class scraper:
             self.start_date = start_date
             self.end_date = end_date
             with open("vars.pkl", "wb") as f:
+
+                # Saving variables
                 pickle.dump(
                     [
                         self.start_date,
@@ -68,6 +91,12 @@ class scraper:
             )
 
     def download_file(self, download_url, pdf_title, path):
+        """
+        download_url : automatic download link
+        pdf_title    : name of the file that will be saved
+        path         : exact path to use (year/month)
+        """
+
         try:
             req = requests.get(
                 download_url,
@@ -93,6 +122,10 @@ class scraper:
             )
 
     def start(self):
+        """
+        Start scraping using the specified parameters
+        """
+
         print(self.year_index)
         print(type(self.year_index))
         print(self.end_date)

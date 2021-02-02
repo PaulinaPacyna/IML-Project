@@ -2,7 +2,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from os import listdir, mkdir
 from os.path import join, isfile, isdir
 import PdfConverter
-from Article import Article
 import pandas as pd
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
