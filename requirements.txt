@@ -7,7 +7,7 @@ spacy~=2.3.5
 num2words~=0.5.10
 
 # IML-Project/src/article.py: 13,14
-Pillow == 8.0.1
+Pillow == 9.0.0
 
 # IML-Project/src/date_formatter.py: 6,7
 PyPDF2 == 1.26.0
