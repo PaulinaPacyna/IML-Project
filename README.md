@@ -22,3 +22,7 @@ Notebooks/scripts:
    Link to clean data : https://drive.google.com/file/d/1pBihRBnGs6VlFalr4BuxMwXw5xL5ZjY6/view?usp=sharing (367 MB zipped) | (1.22 GB decompressed)
    
    Link to LDA models and results: https://drive.google.com/drive/folders/1fG-yuzZq_vhh8hk_PJw1vTZMTMAn_xjH
+   
+### Final Report 
+The final report is included in `IMLReport.pdf`. All details and achieved results are presented in the report.
+
